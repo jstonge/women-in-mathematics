@@ -1,0 +1,617 @@
+degree_institution_name,degree_type,degree_year,degree_advisor,full_name,birthdate,deathdate,birthplace,birthyear,deathyear
+Kansas State Agricultural College,BS,1929,,Sister Mary Nicholas Arnoldy,"March 7, 1893","September 28, 1985","Tipton, Kansas",1893,1985.0
+Catholic University of America,MA,1930,,Sister Mary Nicholas Arnoldy,"March 7, 1893","September 28, 1985","Tipton, Kansas",1893,1985.0
+Catholic University of America,PhD,1933,Aubrey Edward Landry,Sister Mary Nicholas Arnoldy,"March 7, 1893","September 28, 1985","Tipton, Kansas",1893,1985.0
+University of Kansas,BA,1920,,Beatrice Liberty Hagen,"July 4, 1899","July 22, 1987","Barton County, near Ellinwood, Kansas",1899,1987.0
+University of Chicago,MA,1926,Ernest Preston Lane,Beatrice Liberty Hagen,"July 4, 1899","July 22, 1987","Barton County, near Ellinwood, Kansas",1899,1987.0
+University of Chicago,PhD,1930,Ernest Preston Lane,Beatrice Liberty Hagen,"July 4, 1899","July 22, 1987","Barton County, near Ellinwood, Kansas",1899,1987.0
+Goucher College,BA,1915,,Anna Margaret Mullikin,"March 7, 1893","August 24, 1975","Baltimore, Maryland",1893,1975.0
+University of Pennsylvania,MA,1919,,Anna Margaret Mullikin,"March 7, 1893","August 24, 1975","Baltimore, Maryland",1893,1975.0
+University of Pennsylvania,PhD,1922,Robert Lee Moore,Anna Margaret Mullikin,"March 7, 1893","August 24, 1975","Baltimore, Maryland",1893,1975.0
+University of Wisconsin,BA,1889,,Mary Frances Winston Newson,"August 7, 1869","December 5, 1959","Forreston, Illinois",1869,1959.0
+Georg-August-Universität Göttingen,PhD,1897,Felix Klein,Mary Frances Winston Newson,"August 7, 1869","December 5, 1959","Forreston, Illinois",1869,1959.0
+University of Kansas,BS,1889,,Annie Louise MacKinnon Fitch,"June 1, 1868","September 12, 1940","Woodstock, Ontario, Canada",1868,1940.0
+University of Kansas,MS,1891,Henry Byron Newson,Annie Louise MacKinnon Fitch,"June 1, 1868","September 12, 1940","Woodstock, Ontario, Canada",1868,1940.0
+Cornell University,PhD,1894,James Edward Oliver,Annie Louise MacKinnon Fitch,"June 1, 1868","September 12, 1940","Woodstock, Ontario, Canada",1868,1940.0
+Mount Holyoke College,BA,1922,,R. Lucile Anderson,"October 22, 1900","February 18, 1999","Jamestown, New York",1900,1999.0
+Bryn Mawr College,PhD,1930,Anna Pell Wheeler,R. Lucile Anderson,"October 22, 1900","February 18, 1999","Jamestown, New York",1900,1999.0
+Swarthmore College,BA,1930,N/A,Margaret Gurney,"October 28, 1908","March 19, 2002","Washington, D.C.",1908,2002.0
+Brown University,MA,1931,N/A,Margaret Gurney,"October 28, 1908","March 19, 2002","Washington, D.C.",1908,2002.0
+Brown University,PhD,1934,Jacob David Tamarkin,Margaret Gurney,"October 28, 1908","March 19, 2002","Washington, D.C.",1908,2002.0
+University of Texas,BA,1897,,Florence Parthenia Lewis,"September 24, 1877","March 10, 1964","Fort Scott, Kansas",1877,1964.0
+University of Texas,MA,1898,,Florence Parthenia Lewis,"September 24, 1877","March 10, 1964","Fort Scott, Kansas",1877,1964.0
+Radcliffe College,MA,1906,,Florence Parthenia Lewis,"September 24, 1877","March 10, 1964","Fort Scott, Kansas",1877,1964.0
+Johns Hopkins University,PhD,1913,Frank Morley,Florence Parthenia Lewis,"September 24, 1877","March 10, 1964","Fort Scott, Kansas",1877,1964.0
+University of Cincinnati,BA,1921,,Bess Marie Allen (Eversull),"May 18, 1899","March 18, 1978","Elmwood Place, Ohio",1899,1978.0
+University of Cincinnati,MA,1922,,Bess Marie Allen (Eversull),"May 18, 1899","March 18, 1978","Elmwood Place, Ohio",1899,1978.0
+University of Cincinnati,PhD,1924,Charles Napoleon Moore,Bess Marie Allen (Eversull),"May 18, 1899","March 18, 1978","Elmwood Place, Ohio",1899,1978.0
+Stanford University,BA,1925,,Marie Johanna Weiss,"September 21, 1903","August 19, 1952","Eugene, California",1903,1952.0
+Radcliffe College,MA,1926,,Marie Johanna Weiss,"September 21, 1903","August 19, 1952","Eugene, California",1903,1952.0
+Stanford University,PhD,1928,W. A. Manning,Marie Johanna Weiss,"September 21, 1903","August 19, 1952","Eugene, California",1903,1952.0
+Mount Holyoke College,BA,1914,,Nina May Moore (Alderton),"August 19, 1890","November 23, 1973","Berkeley Springs, West Virginia",1890,1973.0
+Columbia University,MA,1915,,Nina May Moore (Alderton),"August 19, 1890","November 23, 1973","Berkeley Springs, West Virginia",1890,1973.0
+University of California,PhD,1921,Derrick Norman Lehmer,Nina May Moore (Alderton),"August 19, 1890","November 23, 1973","Berkeley Springs, West Virginia",1890,1973.0
+Indiana University,BA,1926,,Irene Price,"January 16, 1902","March 13, 1999","Parr, Indiana",1902,1999.0
+Indiana University,MA,1927,,Irene Price,"January 16, 1902","March 13, 1999","Parr, Indiana",1902,1999.0
+Indiana University,PhD,1932,Kenneth Powers Williams and Harold Thayer Davis,Irene Price,"January 16, 1902","March 13, 1999","Parr, Indiana",1902,1999.0
+Barnard College,BA,1931,,Esther Ober McCormick Torrance,"August 12, 1909","January 3, 1978","Fort Wayne, Indiana",1909,1978.0
+Cornell University,MA,1932,Virgil Snyder,Esther Ober McCormick Torrance,"August 12, 1909","January 3, 1978","Fort Wayne, Indiana",1909,1978.0
+Brown University,PhD,1939,Jacob David Tamarkin,Esther Ober McCormick Torrance,"August 12, 1909","January 3, 1978","Fort Wayne, Indiana",1909,1978.0
+University of Missouri,BS,1921,,Emily Kathryn Wyant,"January 16, 1897","July 16, 1942","Ipava, Illinois",1897,1942.0
+University of Missouri,MA,1922,,Emily Kathryn Wyant,"January 16, 1897","July 16, 1942","Ipava, Illinois",1897,1942.0
+University of Missouri,PhD,1929,Gustav Eric Wahlin,Emily Kathryn Wyant,"January 16, 1897","July 16, 1942","Ipava, Illinois",1897,1942.0
+Randolph-Macon Woman’s College,BA,1926,,Emily McCoy Pixley,"August 19, 1904","August 28, 2000","Knoxville, Tennessee",1904,2000.0
+University of Chicago,MS,1927,Lawrence Murray Graves,Emily McCoy Pixley,"August 19, 1904","August 28, 2000","Knoxville, Tennessee",1904,2000.0
+University of Chicago,PhD,1931,Leonard Eugene Dickson,Emily McCoy Pixley,"August 19, 1904","August 28, 2000","Knoxville, Tennessee",1904,2000.0
+Wellesley College,BA,1886,,Helen Abbot Merrill,"March 30, 1864","May 2, 1949","Orange, New Jersey",1864,1949.0
+Yale University,PhD,1903,James Pelham Pierpont,Helen Abbot Merrill,"March 30, 1864","May 2, 1949","Orange, New Jersey",1864,1949.0
+Wellesley College,BA,1898,,Mabel Minerva Young,"July 18, 1872","March 4, 1963","Worcester, Massachusetts",1872,1963.0
+Columbia University (Teachers College),MA,1899,,Mabel Minerva Young,"July 18, 1872","March 4, 1963","Worcester, Massachusetts",1872,1963.0
+Johns Hopkins University,PhD,1914,Frank Morley,Mabel Minerva Young,"July 18, 1872","March 4, 1963","Worcester, Massachusetts",1872,1963.0
+Western Kentucky State Normal School and Teachers College,BA,1927,,Josephine Hughes Chanler,"April 7, 1906","December 23, 1992","St. Louis, Missouri",1906,1992.0
+University of Illinois,MA,1930,Bessie Irving Miller,Josephine Hughes Chanler,"April 7, 1906","December 23, 1992","St. Louis, Missouri",1906,1992.0
+University of Illinois,PhD,1933,Arthur Byron Coble,Josephine Hughes Chanler,"April 7, 1906","December 23, 1992","St. Louis, Missouri",1906,1992.0
+Hunter College,BA,1935,,Bella Manel Greenfield,"October 13, 1915","April 3, 2010",New York City,1915,2010.0
+Columbia University,MA,1936,Joseph Fels Ritt,Bella Manel Greenfield,"October 13, 1915","April 3, 2010",New York City,1915,2010.0
+New York University,PhD,1939,Richard Courant,Bella Manel Greenfield,"October 13, 1915","April 3, 2010",New York City,1915,2010.0
+Mount Holyoke College,BA,1910,,Mildred Leonora Sanderson,"May 12, 1889","October 15, 1914","Waltham, Massachusetts",1889,1914.0
+University of Chicago,MS,1911,Leonard Eugene Dickson,Mildred Leonora Sanderson,"May 12, 1889","October 15, 1914","Waltham, Massachusetts",1889,1914.0
+University of Chicago,PhD,1913,Leonard Eugene Dickson,Mildred Leonora Sanderson,"May 12, 1889","October 15, 1914","Waltham, Massachusetts",1889,1914.0
+Baker University,BA,1917,,Beulah May Armstrong,"November 18, 1895","February 22, 1965","Sterling, Kansas",1895,1965.0
+University of Kansas,MA,1918,,Beulah May Armstrong,"November 18, 1895","February 22, 1965","Sterling, Kansas",1895,1965.0
+University of Illinois,PhD,1921,George Abram Miller,Beulah May Armstrong,"November 18, 1895","February 22, 1965","Sterling, Kansas",1895,1965.0
+Rockford College,BA,1934,,Harriet Bonner (Rees),"July 16, 1914","June 28, 1978","Mt. Morris, Illinois",1914,1978.0
+University of Chicago,MS,1935,Leonard Eugene Dickson,Harriet Bonner (Rees),"July 16, 1914","June 28, 1978","Mt. Morris, Illinois",1914,1978.0
+University of Chicago,PhD,1937,A. Adrian Albert,Harriet Bonner (Rees),"July 16, 1914","June 28, 1978","Mt. Morris, Illinois",1914,1978.0
+Mount Holyoke College,BA,1929,,Abba Verbeck Newton,"February 19, 1908","May 5, 1996","Ballston Spa, New York",1908,1996.0
+University of Chicago,MA,1931,Mayme Logsdon,Abba Verbeck Newton,"February 19, 1908","May 5, 1996","Ballston Spa, New York",1908,1996.0
+University of Chicago,PhD,1933,E. P. Lane,Abba Verbeck Newton,"February 19, 1908","May 5, 1996","Ballston Spa, New York",1908,1996.0
+University of Wisconsin,BS,1932,Not specified,Margarete Caroline Hopkins (née Wolf),"November 3, 1911","April 3, 1998","Milwaukee, Wisconsin",1911,1998.0
+University of Wisconsin,MA,1933,Not specified,Margarete Caroline Hopkins (née Wolf),"November 3, 1911","April 3, 1998","Milwaukee, Wisconsin",1911,1998.0
+University of Wisconsin,PhD,1935,Mark Hoyt Ingraham,Margarete Caroline Hopkins (née Wolf),"November 3, 1911","April 3, 1998","Milwaukee, Wisconsin",1911,1998.0
+Wellesley College,BA,1906,,Mary Florence Curtis Graustein,"April 12, 1884","July 18, 1972","Westminster, Massachusetts",1884,1972.0
+Radcliffe College,MA,1915,,Mary Florence Curtis Graustein,"April 12, 1884","July 18, 1972","Westminster, Massachusetts",1884,1972.0
+Radcliffe College,PhD,1917,Julian L. Coolidge,Mary Florence Curtis Graustein,"April 12, 1884","July 18, 1972","Westminster, Massachusetts",1884,1972.0
+Brown University,BA,1926,,Mary Virginia Landers (née Kenny),"February 5, 1905","November 18, 1990","Fall River, Massachusetts",1905,1990.0
+Brown University,MA,1927,,Mary Virginia Landers (née Kenny),"February 5, 1905","November 18, 1990","Fall River, Massachusetts",1905,1990.0
+University of Chicago,PhD,1939,Gilbert Ames Bliss and Magnus Rudolph Hestenes,Mary Virginia Landers (née Kenny),"February 5, 1905","November 18, 1990","Fall River, Massachusetts",1905,1990.0
+West Virginia University,BA,1906,,Margaret Buchanan Cole,"August 18, 1885","September 10, 1959","Clinton, Pennsylvania",1885,1959.0
+Bryn Mawr College,PhD,1922,Anna Johnson Pell (Wheeler),Margaret Buchanan Cole,"August 18, 1885","September 10, 1959","Clinton, Pennsylvania",1885,1959.0
+Barnard College,BA,1911,,Caroline Eustis Seely,"August 3, 1887","May 17, 1961","Delhi, New York",1887,1961.0
+Columbia University,MA,1912,David Eugene Smith,Caroline Eustis Seely,"August 3, 1887","May 17, 1961","Delhi, New York",1887,1961.0
+Columbia University,PhD,1915,Edward Kasner,Caroline Eustis Seely,"August 3, 1887","May 17, 1961","Delhi, New York",1887,1961.0
+Wellesley College,BA,1935,,Martha Eldora Hathaway Williams,"January 25, 1914","July 22, 1989","Montclair, New Jersey",1914,1989.0
+Massachusetts Institute of Technology,MS,1936,George Rutledge,Martha Eldora Hathaway Williams,"January 25, 1914","July 22, 1989","Montclair, New Jersey",1914,1989.0
+Massachusetts Institute of Technology,PhD,1939,Dirk Jan Struik,Martha Eldora Hathaway Williams,"January 25, 1914","July 22, 1989","Montclair, New Jersey",1914,1989.0
+Indiana Normal School,BS,1893,,Elizabeth Buchanan Cowley,"May 22, 1874","April 13, 1945","Allegheny, Pennsylvania",1874,1945.0
+Vassar College,BA,1901,,Elizabeth Buchanan Cowley,"May 22, 1874","April 13, 1945","Allegheny, Pennsylvania",1874,1945.0
+Vassar College,MA,1902,,Elizabeth Buchanan Cowley,"May 22, 1874","April 13, 1945","Allegheny, Pennsylvania",1874,1945.0
+Columbia University,PhD,1908,Professor Keyser,Elizabeth Buchanan Cowley,"May 22, 1874","April 13, 1945","Allegheny, Pennsylvania",1874,1945.0
+Fordham University,BS,1927,,Sister Mary Cleophas Garvin,"December 11, 1899","January 16, 1990","Vickery, Ohio",1899,1990.0
+Saint Louis University,MS,1931,,Sister Mary Cleophas Garvin,"December 11, 1899","January 16, 1990","Vickery, Ohio",1899,1990.0
+Saint Louis University,PhD,1934,Francis Regan,Sister Mary Cleophas Garvin,"December 11, 1899","January 16, 1990","Vickery, Ohio",1899,1990.0
+University of Saskatchewan,BA,1925,G. H. Ling and L. L. Dines,Olive Margaret Hughes,"December 13, 1899","December 29, 1936","London, England",1899,1936.0
+University of Saskatchewan,MA,1926,G. H. Ling and L. L. Dines,Olive Margaret Hughes,"December 13, 1899","December 29, 1936","London, England",1899,1936.0
+Bryn Mawr College,PhD,1934,Anna Pell Wheeler,Olive Margaret Hughes,"December 13, 1899","December 29, 1936","London, England",1899,1936.0
+Stanford University,BA,1933,,Dorothy Manning Smiley Little,"October 6, 1909","October 18, 1988","Champaign, Illinois",1909,1988.0
+Stanford University,MA,1934,William Albert Manning,Dorothy Manning Smiley Little,"October 6, 1909","October 18, 1988","Champaign, Illinois",1909,1988.0
+Stanford University,PhD,1937,William Albert Manning,Dorothy Manning Smiley Little,"October 6, 1909","October 18, 1988","Champaign, Illinois",1909,1988.0
+University of Georgia,BA,1924,,Gertrude Stith Ketchum,"August 4, 1903","September 27, 1958","near Nunez, Georgia",1903,1958.0
+University of Georgia,MA,1928,,Gertrude Stith Ketchum,"August 4, 1903","September 27, 1958","near Nunez, Georgia",1903,1958.0
+University of Illinois,PhD,1934,R. D. Carmichael,Gertrude Stith Ketchum,"August 4, 1903","September 27, 1958","near Nunez, Georgia",1903,1958.0
+University of Kentucky,BA,1914,,Sallie Elizabeth Pence,"September 5, 1893","July 26, 1989","Lexington, Kentucky",1893,1989.0
+University of Kentucky,MA,1928,,Sallie Elizabeth Pence,"September 5, 1893","July 26, 1989","Lexington, Kentucky",1893,1989.0
+University of Illinois,PhD,1937,Arnold Emch,Sallie Elizabeth Pence,"September 5, 1893","July 26, 1989","Lexington, Kentucky",1893,1989.0
+University of Washington,BA,1924,,Mary Elizabeth Haller,"June 15, 1901","June 16, 1970","Cumberland, Maryland",1901,1970.0
+University of Washington,MS,1931,Roy Martin Winger,Mary Elizabeth Haller,"June 15, 1901","June 16, 1970","Cumberland, Maryland",1901,1970.0
+University of Washington,PhD,1934,Roy Martin Winger,Mary Elizabeth Haller,"June 15, 1901","June 16, 1970","Cumberland, Maryland",1901,1970.0
+Oberlin College,BA,1894,N/A,Josephine Alberta Robinson Roe,"May 5, 1858","April 29, 1946","Meredith, New Hampshire",1858,1946.0
+Dartmouth College,MA,1911,N/A,Josephine Alberta Robinson Roe,"May 5, 1858","April 29, 1946","Meredith, New Hampshire",1858,1946.0
+Syracuse University,PhD,1918,"Edward Drake Roe, Jr.",Josephine Alberta Robinson Roe,"May 5, 1858","April 29, 1946","Meredith, New Hampshire",1858,1946.0
+Heidelberg University,BA,1897,,Grace Marie Bareis,"December 19, 1875","June 15, 1962","Canal Winchester, Ohio",1875,1962.0
+Ohio State University,PhD,1909,Harry Waldo Kuhn,Grace Marie Bareis,"December 19, 1875","June 15, 1962","Canal Winchester, Ohio",1875,1962.0
+Transylvania University,BA,1914,,Julia May Dale,"October 16, 1893","January 13, 1936","Shelbyville, Kentucky",1893,1936.0
+University of Missouri,MA,1921,,Julia May Dale,"October 16, 1893","January 13, 1936","Shelbyville, Kentucky",1893,1936.0
+Cornell University,PhD,1924,Wallie Abraham Hurwitz,Julia May Dale,"October 16, 1893","January 13, 1936","Shelbyville, Kentucky",1893,1936.0
+Realgymnasium der Schillerschule,ABITUR,1922,,Lulu Bechtolsheim,"May 27, 1902","August 29, 1989","New York City, USA",1902,1989.0
+Universität Zürich,PhD,1927,Eugenio Giuseppe Togliatti,Lulu Bechtolsheim,"May 27, 1902","August 29, 1989","New York City, USA",1902,1989.0
+Brown University (Women’s College),BA,1916,,Marion Elizabeth Stark,"August 23, 1894","April 15, 1982","Norwich, Connecticut",1894,1982.0
+Brown University,MA,1917,,Marion Elizabeth Stark,"August 23, 1894","April 15, 1982","Norwich, Connecticut",1894,1982.0
+University of Chicago,PhD,1926,Gilbert Ames Bliss,Marion Elizabeth Stark,"August 23, 1894","April 15, 1982","Norwich, Connecticut",1894,1982.0
+Smith College,BA,1905,,Susan Miller Rambo,"April 3, 1883","January 7, 1977","Easton, Pennsylvania",1883,1977.0
+Smith College,MA,1913,,Susan Miller Rambo,"April 3, 1883","January 7, 1977","Easton, Pennsylvania",1883,1977.0
+University of Michigan,PhD,1920,Walter Burton Ford,Susan Miller Rambo,"April 3, 1883","January 7, 1977","Easton, Pennsylvania",1883,1977.0
+University of Michigan,PhB,1893,,Marion Ballantyne White,"March 28, 1871","January 30, 1958","Peoria, Illinois",1871,1958.0
+University of Wisconsin,MA,1906,,Marion Ballantyne White,"March 28, 1871","January 30, 1958","Peoria, Illinois",1871,1958.0
+University of Chicago,PhD,1910,Gilbert Ames Bliss,Marion Ballantyne White,"March 28, 1871","January 30, 1958","Peoria, Illinois",1871,1958.0
+University of Cincinnati,BA,1931,,Alta Harriet Odoms Gray,"October 1, 1910","December 30, 2001","Fredonia, Indiana",1910,2001.0
+University of Cincinnati,MA,1932,,Alta Harriet Odoms Gray,"October 1, 1910","December 30, 2001","Fredonia, Indiana",1910,2001.0
+University of Cincinnati,PhD,1936,Charles Napoleon Moore,Alta Harriet Odoms Gray,"October 1, 1910","December 30, 2001","Fredonia, Indiana",1910,2001.0
+Mount Holyoke College,BA,1904,,Mary Evelyn Wells,"August 20, 1881","October 7, 1965","LeRaysville, Pennsylvania",1881,1965.0
+University of Chicago,MS,1907,,Mary Evelyn Wells,"August 20, 1881","October 7, 1965","LeRaysville, Pennsylvania",1881,1965.0
+University of Chicago,PhD,1915,Eliakim Hastings Moore,Mary Evelyn Wells,"August 20, 1881","October 7, 1965","LeRaysville, Pennsylvania",1881,1965.0
+Radcliffe College,BA,1912,,Olive Clio Hazlett,"October 27, 1890","March 8, 1974","Cincinnati, Ohio",1890,1974.0
+University of Chicago,MS,1913,Leonard Eugene Dickson,Olive Clio Hazlett,"October 27, 1890","March 8, 1974","Cincinnati, Ohio",1890,1974.0
+University of Chicago,PhD,1915,Leonard Eugene Dickson,Olive Clio Hazlett,"October 27, 1890","March 8, 1974","Cincinnati, Ohio",1890,1974.0
+University of Missouri,BA,1903,,Mary Shore Hull,"June 1, 1882","September 18, 1952","Wentzville, Missouri",1882,1952.0
+University of Missouri,MA,1904,,Mary Shore Hull,"June 1, 1882","September 18, 1952","Wentzville, Missouri",1882,1952.0
+Yale University,PhD,1909,James Pelham Pierpont,Mary Shore Hull,"June 1, 1882","September 18, 1952","Wentzville, Missouri",1882,1952.0
+Bryn Mawr College,BA,1927,,Elizabeth Baxter,"June 8, 1906","April 14, 1966","Ann Arbor, Michigan",1906,1966.0
+University of Michigan,MA,1935,,Elizabeth Baxter,"June 8, 1906","April 14, 1966","Ann Arbor, Michigan",1906,1966.0
+University of Michigan,PhD,1939,George Yuri Rainich,Elizabeth Baxter,"June 8, 1906","April 14, 1966","Ann Arbor, Michigan",1906,1966.0
+Wellesley College,BS,1890,,Anne Lucy Bosworth Focke,"September 29, 1868","May 15, 1907","Woonsocket, Rhode Island",1868,1907.0
+Georg-Augusts-Universität Göttingen,PhD,1900,David Hilbert,Anne Lucy Bosworth Focke,"September 29, 1868","May 15, 1907","Woonsocket, Rhode Island",1868,1907.0
+University of South Dakota,BA,1903,,Anna Johnson Pell Wheeler,"May 5, 1883","March 26, 1966","Calliope (now Hawarden), Iowa",1883,1966.0
+University of Iowa,MA,1904,,Anna Johnson Pell Wheeler,"May 5, 1883","March 26, 1966","Calliope (now Hawarden), Iowa",1883,1966.0
+Radcliffe College,MA,1905,,Anna Johnson Pell Wheeler,"May 5, 1883","March 26, 1966","Calliope (now Hawarden), Iowa",1883,1966.0
+University of Chicago,PhD,1910,Eliakim Hastings Moore,Anna Johnson Pell Wheeler,"May 5, 1883","March 26, 1966","Calliope (now Hawarden), Iowa",1883,1966.0
+University of Nebraska,BA,1916,,Constance Juliet Ballantine,"August 15, 1896","January 14, 1974","Lincoln, Nebraska",1896,1974.0
+University of Nebraska,MA,1919,,Constance Juliet Ballantine,"August 15, 1896","January 14, 1974","Lincoln, Nebraska",1896,1974.0
+University of Chicago,PhD,1923,Leonard Eugene Dickson,Constance Juliet Ballantine,"August 15, 1896","January 14, 1974","Lincoln, Nebraska",1896,1974.0
+Western College for Women,BA,1926,,Anna Adelaide Stafford Henriques,"August 20, 1905","November 28, 2004","Chicago, Illinois",1905,2004.0
+University of Chicago,MS,1931,Mayme I. Logsdon,Anna Adelaide Stafford Henriques,"August 20, 1905","November 28, 2004","Chicago, Illinois",1905,2004.0
+University of Chicago,PhD,1933,Mayme I. Logsdon,Anna Adelaide Stafford Henriques,"August 20, 1905","November 28, 2004","Chicago, Illinois",1905,2004.0
+University of Rochester,BA,1928,,Marjorie Louise Beaty (Heckel),"January 21, 1906","July 18, 2002","Buffalo, New York",1906,2002.0
+University of Rochester,MA,1929,,Marjorie Louise Beaty (Heckel),"January 21, 1906","July 18, 2002","Buffalo, New York",1906,2002.0
+University of Colorado,PhD,1939,Aubrey Kempner,Marjorie Louise Beaty (Heckel),"January 21, 1906","July 18, 2002","Buffalo, New York",1906,2002.0
+Rice Institute,BA,1926,,Deborah May Hickey Maria,"December 16, 1904","June 8, 2001","Lumberton, Mississippi",1904,2001.0
+Rice Institute,MA,1927,Griffith Conrad Evans,Deborah May Hickey Maria,"December 16, 1904","June 8, 2001","Lumberton, Mississippi",1904,2001.0
+Rice Institute,PhD,1929,Lester Randolph Ford,Deborah May Hickey Maria,"December 16, 1904","June 8, 2001","Lumberton, Mississippi",1904,2001.0
+Wellesley College,BA,1921,,Evelyn Prescott Wiggin Casner,"March 1, 1900","November 5, 1964","Stratham, New Hampshire",1900,1964.0
+Brown University,MA,1924,R. G. D. Richardson,Evelyn Prescott Wiggin Casner,"March 1, 1900","November 5, 1964","Stratham, New Hampshire",1900,1964.0
+University of Chicago,PhD,1936,Gilbert Ames Bliss and William Thomas Reid,Evelyn Prescott Wiggin Casner,"March 1, 1900","November 5, 1964","Stratham, New Hampshire",1900,1964.0
+Wellesley College,BA,1911,,Ethel Louise Anderton,"September 23, 1888","February 19, 1971","Dover, New Hampshire",1888,1971.0
+Yale University,MA,1922,,Ethel Louise Anderton,"September 23, 1888","February 19, 1971","Dover, New Hampshire",1888,1971.0
+Yale University,PhD,1925,James Kelsey Whittemore,Ethel Louise Anderton,"September 23, 1888","February 19, 1971","Dover, New Hampshire",1888,1971.0
+Cornell University,BA,1924,,Caroline Avery Lester,"April 6, 1902","December 29, 1996","Seneca Falls, New York",1902,1996.0
+Cornell University,MA,1928,Walter Buckingham Carver,Caroline Avery Lester,"April 6, 1902","December 29, 1996","Seneca Falls, New York",1902,1996.0
+University of Wisconsin,PhD,1937,Cyrus Colton MacDuffee,Caroline Avery Lester,"April 6, 1902","December 29, 1996","Seneca Falls, New York",1902,1996.0
+Randolph-Macon Woman’s College,BA,1903,,Gillie Aldah Larew,"July 28, 1882","January 2, 1977","Near Newbern, Pulaski County, Virginia",1882,1977.0
+University of Chicago,MS,1911,William Duncan MacMillan,Gillie Aldah Larew,"July 28, 1882","January 2, 1977","Near Newbern, Pulaski County, Virginia",1882,1977.0
+University of Chicago,PhD,1916,Gilbert Ames Bliss,Gillie Aldah Larew,"July 28, 1882","January 2, 1977","Near Newbern, Pulaski County, Virginia",1882,1977.0
+Grinnell College,BA,1923,,Frances Harshbarger,"August 16, 1902","February 11, 1987","Quimby, Iowa",1902,1987.0
+West Virginia University,MA,1925,,Frances Harshbarger,"August 16, 1902","February 11, 1987","Quimby, Iowa",1902,1987.0
+University of Illinois,PhD,1930,Arthur Byron Coble,Frances Harshbarger,"August 16, 1902","February 11, 1987","Quimby, Iowa",1902,1987.0
+Hunter College,BA,1932,,Madeline Early (Levin),"April 1, 1912","January 20, 2001","Brooklyn, New York",1912,2001.0
+Bryn Mawr College,MA,1933,William W. Flexner,Madeline Early (Levin),"April 1, 1912","January 20, 2001","Brooklyn, New York",1912,2001.0
+Bryn Mawr College,PhD,1936,William W. Flexner,Madeline Early (Levin),"April 1, 1912","January 20, 2001","Brooklyn, New York",1912,2001.0
+New York University (Bellevue Schools of Nursing),BS,1945,,Madeline Early (Levin),"April 1, 1912","January 20, 2001","Brooklyn, New York",1912,2001.0
+Boston University,PhB,1886,,Ida Martha Metcalf,"August 26, 1856","October 24, 1952",Texas,1856,1952.0
+Cornell University,MS,1889,,Ida Martha Metcalf,"August 26, 1856","October 24, 1952",Texas,1856,1952.0
+Cornell University,PhD,1893,James Edward Oliver,Ida Martha Metcalf,"August 26, 1856","October 24, 1952",Texas,1856,1952.0
+Radcliffe College,BA,1929,,Mildred Marie Sullivan,"November 16, 1907","August 30, 1958","Boston, Massachusetts",1907,1958.0
+Radcliffe College,MA,1930,,Mildred Marie Sullivan,"November 16, 1907","August 30, 1958","Boston, Massachusetts",1907,1958.0
+Radcliffe College,PhD,1932,Oliver Dimon Kellogg,Mildred Marie Sullivan,"November 16, 1907","August 30, 1958","Boston, Massachusetts",1907,1958.0
+Mount Holyoke College,BA,1924,,Aline Huke Frink,"March 2, 1904","March 14, 2000","Torrington, Connecticut",1904,2000.0
+University of Chicago,MA,1927,Arthur Constant Lunn,Aline Huke Frink,"March 2, 1904","March 14, 2000","Torrington, Connecticut",1904,2000.0
+University of Chicago,PhD,1930,Gilbert Ames Bliss,Aline Huke Frink,"March 2, 1904","March 14, 2000","Torrington, Connecticut",1904,2000.0
+Mount Holyoke College,BA,1931,Marie Litzinger,Virginia Modesitt Reklis,"June 15, 1910","November 29, 2000","Bloomington, Indiana",1910,2000.0
+University of Illinois,MA,1932,,Virginia Modesitt Reklis,"June 15, 1910","November 29, 2000","Bloomington, Indiana",1910,2000.0
+University of Illinois,PhD,1937,Harry Levy,Virginia Modesitt Reklis,"June 15, 1910","November 29, 2000","Bloomington, Indiana",1910,2000.0
+Cornell University,BS,1894,,Anna Lavinia Van Benschoten,"August 12, 1866","September 18, 1927","Elmira, New York",1866,1927.0
+University of Chicago,MS,1900,,Anna Lavinia Van Benschoten,"August 12, 1866","September 18, 1927","Elmira, New York",1866,1927.0
+Cornell University,PhD,1908,Virgil Snyder,Anna Lavinia Van Benschoten,"August 12, 1866","September 18, 1927","Elmira, New York",1866,1927.0
+Pacific University,BA,1929,,Andrewa Rebecca Noble,"March 28, 1908","November 21, 1993","Oregon City, Oregon",1908,1993.0
+University of California,MA,1934,,Andrewa Rebecca Noble,"March 28, 1908","November 21, 1993","Oregon City, Oregon",1908,1993.0
+University of California,PhD,1935,Derrick Norman Lehmer,Andrewa Rebecca Noble,"March 28, 1908","November 21, 1993","Oregon City, Oregon",1908,1993.0
+Bryn Mawr College,BA,1894,,Emilie Norton Martin,"December 30, 1869","February 8, 1936","Elizabeth, New Jersey",1869,1936.0
+Bryn Mawr College,PhD,1901,James Harkness,Emilie Norton Martin,"December 30, 1869","February 8, 1936","Elizabeth, New Jersey",1869,1936.0
+Vassar College,BA,1904,,Eugenie Maria Morenus,"February 21, 1881","October 15, 1966","Cleveland, New York",1881,1966.0
+Vassar College,MA,1905,,Eugenie Maria Morenus,"February 21, 1881","October 15, 1966","Cleveland, New York",1881,1966.0
+Columbia University,PhD,1922,Edward Kasner,Eugenie Maria Morenus,"February 21, 1881","October 15, 1966","Cleveland, New York",1881,1966.0
+Wellesley College,BA,1883,,Winifred Haring Edgerton Merrill,"September 24, 1862","September 6, 1951","Ripon, Wisconsin",1862,1951.0
+Columbia College,PhD,1886,John Howard Van Amringe,Winifred Haring Edgerton Merrill,"September 24, 1862","September 6, 1951","Ripon, Wisconsin",1862,1951.0
+Vassar College,BA,1869,,Christine Ladd-Franklin,"December 1, 1847","March 5, 1930","Windsor, Connecticut",1847,1930.0
+Johns Hopkins University,PhD,1926,Charles Sanders Peirce,Christine Ladd-Franklin,"December 1, 1847","March 5, 1930","Windsor, Connecticut",1847,1930.0
+University of Texas,BA,1908,,Goldie Printis Horton Porter,"September 4, 1887","May 11, 1972","Athens, Texas",1887,1972.0
+Smith College,MA,1910,,Goldie Printis Horton Porter,"September 4, 1887","May 11, 1972","Athens, Texas",1887,1972.0
+University of Texas,PhD,1916,Milton Brockett Porter,Goldie Printis Horton Porter,"September 4, 1887","May 11, 1972","Athens, Texas",1887,1972.0
+Iowa State College of Agriculture and Mechanic Arts,BS,1909,,Fay Farnum,"August 24, 1888","March 11, 1977","Spencer, Iowa",1888,1977.0
+Cornell University,MA,1915,,Fay Farnum,"August 24, 1888","March 11, 1977","Spencer, Iowa",1888,1977.0
+Cornell University,PhD,1926,Virgil Snyder,Fay Farnum,"August 24, 1888","March 11, 1977","Spencer, Iowa",1888,1977.0
+Monmouth College,BA,1916,,Dora McFarland,"April 18, 1895","November 26, 1987","near Aledo, Illinois",1895,1987.0
+University of Oklahoma,MA,1921,,Dora McFarland,"April 18, 1895","November 26, 1987","near Aledo, Illinois",1895,1987.0
+University of Chicago,PhD,1936,Leonard Eugene Dickson,Dora McFarland,"April 18, 1895","November 26, 1987","near Aledo, Illinois",1895,1987.0
+Hunter College,BA,1923,,Mina Spiegel Rees,"August 2, 1902","October 25, 1997","Cleveland, Ohio",1902,1997.0
+Columbia University (Teachers College),MA,1925,,Mina Spiegel Rees,"August 2, 1902","October 25, 1997","Cleveland, Ohio",1902,1997.0
+University of Chicago,PhD,1931,Leonard Eugene Dickson,Mina Spiegel Rees,"August 2, 1902","October 25, 1997","Cleveland, Ohio",1902,1997.0
+Northwestern University,BS,1935,,Elizabeth Audrey Wishard McMillan,"July 7, 1914","January 10, 2008","Jubbulpore, India",1914,2008.0
+Radcliffe College,MA,1936,,Elizabeth Audrey Wishard McMillan,"July 7, 1914","January 10, 2008","Jubbulpore, India",1914,2008.0
+Radcliffe College,PhD,1938,Lars V. Ahlfors,Elizabeth Audrey Wishard McMillan,"July 7, 1914","January 10, 2008","Jubbulpore, India",1914,2008.0
+"University of California, Southern Branch",BEd,1923,,May Margaret Beenken,"October 22, 1901","December 21, 1988","Philadelphia, Pennsylvania",1901,1988.0
+University of Chicago,MA,1926,Ernest Preston Lane,May Margaret Beenken,"October 22, 1901","December 21, 1988","Philadelphia, Pennsylvania",1901,1988.0
+University of Chicago,PhD,1928,Ernest Preston Lane,May Margaret Beenken,"October 22, 1901","December 21, 1988","Philadelphia, Pennsylvania",1901,1988.0
+Goucher College,BA,1913,,Helen Barton,"August 9, 1891","March 19, 1971","Baltimore, Maryland",1891,1971.0
+Johns Hopkins University,MA,1922,Frank Morley,Helen Barton,"August 9, 1891","March 19, 1971","Baltimore, Maryland",1891,1971.0
+Johns Hopkins University,PhD,1926,Frank Morley,Helen Barton,"August 9, 1891","March 19, 1971","Baltimore, Maryland",1891,1971.0
+University of Buffalo,BS,1927,,Harriet Frances Montague,"June 9, 1905","March 19, 1997","Buffalo, New York",1905,1997.0
+University of Buffalo,MA,1929,,Harriet Frances Montague,"June 9, 1905","March 19, 1997","Buffalo, New York",1905,1997.0
+Cornell University,PhD,1935,Virgil Snyder,Harriet Frances Montague,"June 9, 1905","March 19, 1997","Buffalo, New York",1905,1997.0
+Winthrop Normal and Industrial College of South Carolina,BA,1911,,Ruth Wyckliffe Stokes,"October 12, 1890","August 27, 1968","Greenville, South Carolina",1890,1968.0
+Vanderbilt University,MA,1923,,Ruth Wyckliffe Stokes,"October 12, 1890","August 27, 1968","Greenville, South Carolina",1890,1968.0
+Duke University,PhD,1931,Joseph Miller Thomas,Ruth Wyckliffe Stokes,"October 12, 1890","August 27, 1968","Greenville, South Carolina",1890,1968.0
+Wellesley College,BA,1904,,Euphemia Richardson Worthington,"December 22, 1881","August 30, 1969","Troy, New York",1881,1969.0
+Yale University,PhD,1908,James Pelham Pierpont,Euphemia Richardson Worthington,"December 22, 1881","August 30, 1969","Troy, New York",1881,1969.0
+Goucher College,BA,1918,,Anna Marie Whelan,"September 6, 1895","June 14, 1966","Baltimore, Maryland",1895,1966.0
+Johns Hopkins University,PhD,1923,Frank Morley,Anna Marie Whelan,"September 6, 1895","June 14, 1966","Baltimore, Maryland",1895,1966.0
+University of Chicago,BS,1926,Unknown,Antoinette Marie Huston (née Killen),"November 23, 1904","July 13, 1993","Chicago, Illinois",1904,1993.0
+University of Chicago,MS,1930,Lawrence Murray Graves,Antoinette Marie Huston (née Killen),"November 23, 1904","July 13, 1993","Chicago, Illinois",1904,1993.0
+University of Chicago,PhD,1934,Abraham Adrian Albert,Antoinette Marie Huston (née Killen),"November 23, 1904","July 13, 1993","Chicago, Illinois",1904,1993.0
+Woman’s College of Baltimore,BA,1907,,Bessie Irving Miller,"November 4, 1884","February 4, 1931","Baltimore, Maryland",1884,1931.0
+Johns Hopkins University,PhD,1914,Arthur Byron Coble,Bessie Irving Miller,"November 4, 1884","February 4, 1931","Baltimore, Maryland",1884,1931.0
+Indiana University,BA,1910,,Mary Gertrude Haseman,"March 6, 1889","April 9, 1979","Linton, Indiana",1889,1979.0
+Bryn Mawr College,PhD,1917,Charlotte Angas Scott,Mary Gertrude Haseman,"March 6, 1889","April 9, 1979","Linton, Indiana",1889,1979.0
+Shurtleff College,BS,1926,,Henrietta Pearl Terry Nee,"December 30, 1904","June 5, 1981","Virden, Illinois",1904,1981.0
+University of Illinois,MA,1929,,Henrietta Pearl Terry Nee,"December 30, 1904","June 5, 1981","Virden, Illinois",1904,1981.0
+University of Illinois,PhD,1934,H. R. Brahana,Henrietta Pearl Terry Nee,"December 30, 1904","June 5, 1981","Virden, Illinois",1904,1981.0
+Concordia College,BA,1921,,Ruth Beatrice Rasmusen,"March 29, 1899","October 27, 1974","Moorhead, Minnesota",1899,1974.0
+University of Chicago,MS,1926,Ernest Preston Lane,Ruth Beatrice Rasmusen,"March 29, 1899","October 27, 1974","Moorhead, Minnesota",1899,1974.0
+University of Chicago,PhD,1936,Ernest Preston Lane,Ruth Beatrice Rasmusen,"March 29, 1899","October 27, 1974","Moorhead, Minnesota",1899,1974.0
+Ohio State University,BA,1926,,Carolyn Grace Shover Quinn,"December 20, 1906","February 4, 1998","Grove City, Ohio",1906,1998.0
+Ohio State University,BS,1926,,Carolyn Grace Shover Quinn,"December 20, 1906","February 4, 1998","Grove City, Ohio",1906,1998.0
+Ohio State University,MA,1927,,Carolyn Grace Shover Quinn,"December 20, 1906","February 4, 1998","Grove City, Ohio",1906,1998.0
+Ohio State University,PhD,1931,Cyrus Colton MacDuffee,Carolyn Grace Shover Quinn,"December 20, 1906","February 4, 1998","Grove City, Ohio",1906,1998.0
+Hunter College,BA,1925,,Harriet Madeline Griffin,"April 6, 1903","January 13, 1991","Brooklyn, New York",1903,1991.0
+Columbia University,MA,1929,,Harriet Madeline Griffin,"April 6, 1903","January 13, 1991","Brooklyn, New York",1903,1991.0
+New York University,PhD,1939,Donald Alexander Flanders,Harriet Madeline Griffin,"April 6, 1903","January 13, 1991","Brooklyn, New York",1903,1991.0
+Goucher College,BA,1919,,Anna Marguerite Marie Lehr,"October 22, 1898","December 14, 1987","Baltimore, Maryland",1898,1987.0
+Bryn Mawr College,PhD,1925,Charlotte Angas Scott,Anna Marguerite Marie Lehr,"October 22, 1898","December 14, 1987","Baltimore, Maryland",1898,1987.0
+Brown University,BA,1923,,Ellen Clayton Stokes,"September 27, 1900","May 23, 1974","Hackensack, New Jersey",1900,1974.0
+Brown University,MA,1924,,Ellen Clayton Stokes,"September 27, 1900","May 23, 1974","Hackensack, New Jersey",1900,1974.0
+University of Chicago,PhD,1939,Gilbert Ames Bliss,Ellen Clayton Stokes,"September 27, 1900","May 23, 1974","Hackensack, New Jersey",1900,1974.0
+University of California,BA,1915,,Mary Helen Sagal (Sznyter),"June 21, 1893","March 24, 1975","Woodhaven, New York",1893,1975.0
+University of California,MA,1916,J. H. McDonald,Mary Helen Sagal (Sznyter),"June 21, 1893","March 24, 1975","Woodhaven, New York",1893,1975.0
+University of California,PhD,1918,J. H. McDonald,Mary Helen Sagal (Sznyter),"June 21, 1893","March 24, 1975","Woodhaven, New York",1893,1975.0
+Miami University,BA,1930,,Marjorie Leffler Alden,"August 29, 1909","October 5, 2000","Kyle, Ohio",1909,2000.0
+Ohio State University,MA,1932,Tibor Radó,Marjorie Leffler Alden,"August 29, 1909","October 5, 2000","Kyle, Ohio",1909,2000.0
+Ohio State University,PhD,1934,Tibor Radó,Marjorie Leffler Alden,"August 29, 1909","October 5, 2000","Kyle, Ohio",1909,2000.0
+Hunter College,BA,1916,,Elizabeth E. Mary Karl,"November 16, 1893","August 30, 1984",New York City,1893,1984.0
+Johns Hopkins University,MA,1927,,Elizabeth E. Mary Karl,"November 16, 1893","August 30, 1984",New York City,1893,1984.0
+Johns Hopkins University,PhD,1931,Oscar Zariski,Elizabeth E. Mary Karl,"November 16, 1893","August 30, 1984",New York City,1893,1984.0
+Knox College,BA,1920,,Marie Mathilda Yeaton,"March 1, 1898","March 19, 1978","Galesburg, Illinois",1898,1978.0
+University of Iowa,MS,1921,H. L. Rietz and E. W. Chittenden,Marie Mathilda Yeaton,"March 1, 1898","March 19, 1978","Galesburg, Illinois",1898,1978.0
+University of Chicago,PhD,1928,Gilbert Ames Bliss,Marie Mathilda Yeaton,"March 1, 1898","March 19, 1978","Galesburg, Illinois",1898,1978.0
+Wellesley College,BA,1921,,Helen Gertrude Russell,"September 28, 1901","October 24, 1968","Gorham, Maine",1901,1968.0
+"Teachers College, Columbia University",MA,1924,David Eugene Smith,Helen Gertrude Russell,"September 28, 1901","October 24, 1968","Gorham, Maine",1901,1968.0
+Radcliffe College,PhD,1932,Joseph Leonard Walsh,Helen Gertrude Russell,"September 28, 1901","October 24, 1968","Gorham, Maine",1901,1968.0
+University of Michigan,PhB,1890,,Ruth Ellen Gentry,"February 22, 1862","October 18, 1917","Stilesville, Indiana",1862,1917.0
+Bryn Mawr College,PhD,1894,Charlotte Angas Scott,Ruth Ellen Gentry,"February 22, 1862","October 18, 1917","Stilesville, Indiana",1862,1917.0
+Goucher College,BA,1917,,Florence Marie Mears,"May 18, 1896","December 3, 1995","Baltimore, Maryland",1896,1995.0
+Cornell University,MA,1924,Walter Buckingham Carver,Florence Marie Mears,"May 18, 1896","December 3, 1995","Baltimore, Maryland",1896,1995.0
+Cornell University,PhD,1927,Wallie Abraham Hurwitz,Florence Marie Mears,"May 18, 1896","December 3, 1995","Baltimore, Maryland",1896,1995.0
+Trinity College,BS,1910,,Sister Marie Cecilia Mangold,"December 5, 1872","February 9, 1934","Cincinnati, Ohio",1872,1934.0
+Trinity College,MS,1914,,Sister Marie Cecilia Mangold,"December 5, 1872","February 9, 1934","Cincinnati, Ohio",1872,1934.0
+Catholic University of America,PhD,1929,Aubrey Edward Landry,Sister Marie Cecilia Mangold,"December 5, 1872","February 9, 1934","Cincinnati, Ohio",1872,1934.0
+Hedding College,PhB,1886,,Clara Latimer Bacon,"August 13, 1866","April 14, 1948","Hillsgrove, Illinois",1866,1948.0
+Wellesley College,BA,1890,Ellen Hayes,Clara Latimer Bacon,"August 13, 1866","April 14, 1948","Hillsgrove, Illinois",1866,1948.0
+University of Chicago,MA,1904,,Clara Latimer Bacon,"August 13, 1866","April 14, 1948","Hillsgrove, Illinois",1866,1948.0
+Johns Hopkins University,PhD,1911,Frank Morley,Clara Latimer Bacon,"August 13, 1866","April 14, 1948","Hillsgrove, Illinois",1866,1948.0
+University of Minnesota,BA,1917,None specified,Sally Elizabeth Carlson,"October 2, 1896","November 1, 2000","Minneapolis, Minnesota",1896,2000.0
+University of Minnesota,MA,1918,None specified,Sally Elizabeth Carlson,"October 2, 1896","November 1, 2000","Minneapolis, Minnesota",1896,2000.0
+University of Minnesota,PhD,1924,Dunham Jackson,Sally Elizabeth Carlson,"October 2, 1896","November 1, 2000","Minneapolis, Minnesota",1896,2000.0
+New York University,BS,1931,,Jeanette Delevie (Fox),"January 13, 1912","July 29, 1997","New York, New York",1912,1997.0
+Yale University,PhD,1935,Oystein Ore,Jeanette Delevie (Fox),"January 13, 1912","July 29, 1997","New York, New York",1912,1997.0
+"University of California, Berkeley",BA,1917,,Elsie Jeannette McFarland Buck,"June 3, 1897","January 11, 1984","St. Louis, Missouri",1897,1984.0
+"University of California, Berkeley",MA,1918,John Hector McDonald,Elsie Jeannette McFarland Buck,"June 3, 1897","January 11, 1984","St. Louis, Missouri",1897,1984.0
+"University of California, Berkeley",PhD,1920,John Hector McDonald,Elsie Jeannette McFarland Buck,"June 3, 1897","January 11, 1984","St. Louis, Missouri",1897,1984.0
+Wellesley College,BA,1916,,Rachel Adams (Blodgett),"October 13, 1894","January 22, 1982","Woburn, Massachusetts",1894,1982.0
+Radcliffe College,MA,1919,,Rachel Adams (Blodgett),"October 13, 1894","January 22, 1982","Woburn, Massachusetts",1894,1982.0
+Radcliffe College,PhD,1921,,Rachel Adams (Blodgett),"October 13, 1894","January 22, 1982","Woburn, Massachusetts",1894,1982.0
+Reed College,BA,1933,,Cleota Gage Fry,"December 30, 1910","July 1, 2001","Shoshone, Idaho",1910,2001.0
+Purdue University,MS,1936,Dr. Nordheim,Cleota Gage Fry,"December 30, 1910","July 1, 2001","Shoshone, Idaho",1910,2001.0
+Purdue University,PhD,1939,H. K. Hughes,Cleota Gage Fry,"December 30, 1910","July 1, 2001","Shoshone, Idaho",1910,2001.0
+Smith College,BA,1908,,Ida Barney,"November 6, 1886","March 7, 1982","New Haven, Connecticut",1886,1982.0
+Yale University,PhD,1911,James Pierpont,Ida Barney,"November 6, 1886","March 7, 1982","New Haven, Connecticut",1886,1982.0
+College of Saint Teresa,BA,1920,,Sister Mary Thomas `a Kempis Kloyda,"May 15, 1896","March 19, 1977","Manly, Iowa, USA",1896,1977.0
+University of Michigan,MA,1926,,Sister Mary Thomas `a Kempis Kloyda,"May 15, 1896","March 19, 1977","Manly, Iowa, USA",1896,1977.0
+University of Michigan,PhD,1936,Louis C. Karpinski,Sister Mary Thomas `a Kempis Kloyda,"May 15, 1896","March 19, 1977","Manly, Iowa, USA",1896,1977.0
+Mount Holyoke College,BA,1902,,Clara Eliza Smith,"May 20, 1865","May 12, 1943","Northford, Connecticut",1865,1943.0
+Yale University,PhD,1904,James Pelham Pierpont,Clara Eliza Smith,"May 20, 1865","May 12, 1943","Northford, Connecticut",1865,1943.0
+Vassar College,BA,1924,,Nancy Cole,"October 15, 1902","July 7, 1991","Boston, Massachusetts",1902,1991.0
+Radcliffe College,MA,1929,,Nancy Cole,"October 15, 1902","July 7, 1991","Boston, Massachusetts",1902,1991.0
+Radcliffe College,PhD,1934,Marston Morse,Nancy Cole,"October 15, 1902","July 7, 1991","Boston, Massachusetts",1902,1991.0
+Dominican College of San Rafael,BA,1927,Anna Marie Whelan,Joanna Isabel Mayer,"March 6, 1904","February 28, 1991","Pettis County, near Sedalia, Missouri",1904,1991.0
+Marquette University,MA,1928,Harvey Pierson Pettit,Joanna Isabel Mayer,"March 6, 1904","February 28, 1991","Pettis County, near Sedalia, Missouri",1904,1991.0
+Marquette University,PhD,1931,Harvey Pierson Pettit,Joanna Isabel Mayer,"March 6, 1904","February 28, 1991","Pettis County, near Sedalia, Missouri",1904,1991.0
+Goucher College,BA,1924,,Mildred Caroline Somerset Waters Dean,"February 17, 1904","September 11, 1981","Baltimore, Maryland",1904,1981.0
+Johns Hopkins University,MA,1927,Frank Morley,Mildred Caroline Somerset Waters Dean,"February 17, 1904","September 11, 1981","Baltimore, Maryland",1904,1981.0
+Johns Hopkins University,PhD,1929,Frank Morley,Mildred Caroline Somerset Waters Dean,"February 17, 1904","September 11, 1981","Baltimore, Maryland",1904,1981.0
+West Virginia University,BA,1915,,Bird Margaret Turner,"April 18, 1877","September 5, 1962","Moundsville, West Virginia",1877,1962.0
+West Virginia University,MA,1917,,Bird Margaret Turner,"April 18, 1877","September 5, 1962","Moundsville, West Virginia",1877,1962.0
+Bryn Mawr College,PhD,1920,Charlotte Angas Scott,Bird Margaret Turner,"April 18, 1877","September 5, 1962","Moundsville, West Virginia",1877,1962.0
+Columbian University,BA,1899,,Alice Madeleine Dimick,"December 6, 1878","July 13, 1956","Washington, D.C.",1878,1956.0
+University of Pennsylvania,MA,1900,,Alice Madeleine Dimick,"December 6, 1878","July 13, 1956","Washington, D.C.",1878,1956.0
+University of Pennsylvania,PhD,1905,,Alice Madeleine Dimick,"December 6, 1878","July 13, 1956","Washington, D.C.",1878,1956.0
+University of Arkansas,BA,1915,,Jewell Constance Hughes Bushey,"March 13, 1896","May 5, 1989","Fayetteville, Arkansas",1896,1989.0
+University of Missouri,MA,1916,,Jewell Constance Hughes Bushey,"March 13, 1896","May 5, 1989","Fayetteville, Arkansas",1896,1989.0
+University of Chicago,PhD,1924,Gilbert Ames Bliss,Jewell Constance Hughes Bushey,"March 13, 1896","May 5, 1989","Fayetteville, Arkansas",1896,1989.0
+University of Missouri,BA,1908,,Eula Adeline Weeks King,"September 13, 1882","June 30, 1967","near Louisville, Georgia",1882,1967.0
+University of Missouri,BS,1908,,Eula Adeline Weeks King,"September 13, 1882","June 30, 1967","near Louisville, Georgia",1882,1967.0
+University of Missouri,MA,1909,,Eula Adeline Weeks King,"September 13, 1882","June 30, 1967","near Louisville, Georgia",1882,1967.0
+University of Missouri,PhD,1915,Earle Raymond Hedrick,Eula Adeline Weeks King,"September 13, 1882","June 30, 1967","near Louisville, Georgia",1882,1967.0
+Bryn Mawr College,BA,1915,,Marguerite Daisy Darkow,"November 12, 1893","December 9, 1992","Philadelphia, United States",1893,1992.0
+University of Chicago,MA,1923,,Marguerite Daisy Darkow,"November 12, 1893","December 9, 1992","Philadelphia, United States",1893,1992.0
+University of Chicago,PhD,1924,Leonard Eugene Dickson,Marguerite Daisy Darkow,"November 12, 1893","December 9, 1992","Philadelphia, United States",1893,1992.0
+Georgia State College for Women,BS,1926,,Sara Louise Nelson,"January 17, 1903","March 6, 1995","Oglethorpe, Georgia",1903,1995.0
+Cornell University,MS,1930,Virgil Snyder,Sara Louise Nelson,"January 17, 1903","March 6, 1995","Oglethorpe, Georgia",1903,1995.0
+Cornell University,PhD,1939,"Virgil Snyder, Robert J. Walker",Sara Louise Nelson,"January 17, 1903","March 6, 1995","Oglethorpe, Georgia",1903,1995.0
+Duke University,BA,1928,Unknown,Mabel Jeanette Griffin Reavis,"August 28, 1907","November 19, 1999","Durham, North Carolina",1907,1999.0
+Duke University,MA,1930,Unknown,Mabel Jeanette Griffin Reavis,"August 28, 1907","November 19, 1999","Durham, North Carolina",1907,1999.0
+Duke University,PhD,1933,Joseph Miller Thomas,Mabel Jeanette Griffin Reavis,"August 28, 1907","November 19, 1999","Durham, North Carolina",1907,1999.0
+Wells College,BA,1908,,Anna Mayme Howe,"October 24, 1883","August 8, 1976","Jordan, New York",1883,1976.0
+Cornell University,MA,1911,Joseph Vance McKelvey,Anna Mayme Howe,"October 24, 1883","August 8, 1976","Jordan, New York",1883,1976.0
+Cornell University,PhD,1917,Virgil Snyder,Anna Mayme Howe,"October 24, 1883","August 8, 1976","Jordan, New York",1883,1976.0
+Shorter Female College,BA,1896,,Ruby Usher Hightower,"June 17, 1880","May 5, 1959","near Covington, Georgia",1880,1959.0
+University of Georgia,MA,1919,,Ruby Usher Hightower,"June 17, 1880","May 5, 1959","near Covington, Georgia",1880,1959.0
+University of Missouri,PhD,1927,Gustav Eric Wahlin,Ruby Usher Hightower,"June 17, 1880","May 5, 1959","near Covington, Georgia",1880,1959.0
+University of Maine,BS,1904,,Lennie Phoebe Copeland,"March 30, 1881","January 11, 1951","Brewer, Maine",1881,1951.0
+Wellesley College,MA,1911,,Lennie Phoebe Copeland,"March 30, 1881","January 11, 1951","Brewer, Maine",1881,1951.0
+University of Pennsylvania,PhD,1913,Oliver E. Glenn,Lennie Phoebe Copeland,"March 30, 1881","January 11, 1951","Brewer, Maine",1881,1951.0
+University of Chicago,BS,1911,,Myrtie Collier,"September 14, 1877","June 25, 1974","Carthage, Missouri",1877,1974.0
+Université de Strasbourg,PhD,1930,,Myrtie Collier,"September 14, 1877","June 25, 1974","Carthage, Missouri",1877,1974.0
+Hunter College,BA,1922,,Laura Guggenbuhl,"November 18, 1901","March 8, 1985","New York City, New York, USA",1901,1985.0
+Bryn Mawr College,MA,1924,,Laura Guggenbuhl,"November 18, 1901","March 8, 1985","New York City, New York, USA",1901,1985.0
+Bryn Mawr College,PhD,1927,Anna Pell Wheeler,Laura Guggenbuhl,"November 18, 1901","March 8, 1985","New York City, New York, USA",1901,1985.0
+Brown University (Women’s College),BA,1916,,Marian Marsh Torrey,"December 9, 1893","September 16, 1971","Malden, Massachusetts",1893,1971.0
+Brown University,MA,1917,,Marian Marsh Torrey,"December 9, 1893","September 16, 1971","Malden, Massachusetts",1893,1971.0
+Cornell University,PhD,1924,Virgil Snyder,Marian Marsh Torrey,"December 9, 1893","September 16, 1971","Malden, Massachusetts",1893,1971.0
+University of Illinois,BA,1909,,Josephine Elizabeth Burns Glasgow,"July 22, 1887","January 22, 1969","Greenville, Illinois",1887,1969.0
+University of Illinois,MA,1911,G. A. Miller,Josephine Elizabeth Burns Glasgow,"July 22, 1887","January 22, 1969","Greenville, Illinois",1887,1969.0
+University of Illinois,PhD,1913,G. A. Miller,Josephine Elizabeth Burns Glasgow,"July 22, 1887","January 22, 1969","Greenville, Illinois",1887,1969.0
+McPherson College,BA,1914,,Jessie Marie Offermann (Jacobs),"October 1, 1890","July 7, 1954","Wilmington, Delaware",1890,1954.0
+University of Kansas,MA,1916,Charles Hamilton Ashton,Jessie Marie Offermann (Jacobs),"October 1, 1890","July 7, 1954","Wilmington, Delaware",1890,1954.0
+University of Illinois,PhD,1919,Arthur Byron Coble,Jessie Marie Offermann (Jacobs),"October 1, 1890","July 7, 1954","Wilmington, Delaware",1890,1954.0
+University of Mount Allison College,BA,1899,,Julia Trueman Colpitts,"February 22, 1875","August 8, 1936","Pointe de Bute, New Brunswick, Canada",1875,1936.0
+Cornell University,MA,1900,,Julia Trueman Colpitts,"February 22, 1875","August 8, 1936","Pointe de Bute, New Brunswick, Canada",1875,1936.0
+Cornell University,PhD,1924,Clyde Firman Craig and John Irwin Hutchinson,Julia Trueman Colpitts,"February 22, 1875","August 8, 1936","Pointe de Bute, New Brunswick, Canada",1875,1936.0
+Concordia College,BA,1920,,Mae Ruth Anderson,"May 31, 1899","March 28, 1948","near Westby, Wisconsin",1899,1948.0
+University of Chicago,MA,1923,,Mae Ruth Anderson,"May 31, 1899","March 28, 1948","near Westby, Wisconsin",1899,1948.0
+University of Chicago,PhD,1936,Leonard Eugene Dickson,Mae Ruth Anderson,"May 31, 1899","March 28, 1948","near Westby, Wisconsin",1899,1948.0
+University of Wisconsin,BA,1931,,Louise Adelaide Wolf,"October 20, 1898","November 14, 1962","Milwaukee, Wisconsin",1898,1962.0
+University of Wisconsin,MA,1933,,Louise Adelaide Wolf,"October 20, 1898","November 14, 1962","Milwaukee, Wisconsin",1898,1962.0
+University of Wisconsin,PhD,1935,Mark Hoyt Ingraham,Louise Adelaide Wolf,"October 20, 1898","November 14, 1962","Milwaukee, Wisconsin",1898,1962.0
+Vassar College,BA,1922,,Frances Thorndike Cope,"August 19, 1902","May 14, 1982","New York City, New York, USA",1902,1982.0
+Columbia University,MA,1925,,Frances Thorndike Cope,"August 19, 1902","May 14, 1982","New York City, New York, USA",1902,1982.0
+Radcliffe College,PhD,1932,George David Birkhoff,Frances Thorndike Cope,"August 19, 1902","May 14, 1982","New York City, New York, USA",1902,1982.0
+Colorado College,BA,1909,,Emma Kirtland McDonald,"August 3, 1886","July 7, 1948","Brooklyn, New York",1886,1948.0
+University of California,MA,1916,John Hector McDonald,Emma Kirtland McDonald,"August 3, 1886","July 7, 1948","Brooklyn, New York",1886,1948.0
+University of California,PhD,1932,Derrick Norman Lehmer,Emma Kirtland McDonald,"August 3, 1886","July 7, 1948","Brooklyn, New York",1886,1948.0
+New York University,BA,1928,,Helen Mary Infeld,"July 20, 1907","July 6, 1993","The Bronx, New York City",1907,1993.0
+Cornell University,MA,1929,Walter Buckingham Carver,Helen Mary Infeld,"July 20, 1907","July 6, 1993","The Bronx, New York City",1907,1993.0
+Cornell University,PhD,1933,Virgil Snyder,Helen Mary Infeld,"July 20, 1907","July 6, 1993","The Bronx, New York City",1907,1993.0
+University of Washington,BS,1920,,Echo Delores Pepper,"June 3, 1897","January 5, 1979","Spokane, Washington, USA",1897,1979.0
+University of Washington,MS,1922,,Echo Delores Pepper,"June 3, 1897","January 5, 1979","Spokane, Washington, USA",1897,1979.0
+University of Chicago,PhD,1925,Leonard Eugene Dickson,Echo Delores Pepper,"June 3, 1897","January 5, 1979","Spokane, Washington, USA",1897,1979.0
+Smith College,BA,1886,,Leona May Peirce,"August 4, 1863","September 27, 1954","Norway, Maine",1863,1954.0
+Smith College,MA,1893,,Leona May Peirce,"August 4, 1863","September 27, 1954","Norway, Maine",1863,1954.0
+Yale University,PhD,1899,William Edward Story,Leona May Peirce,"August 4, 1863","September 27, 1954","Norway, Maine",1863,1954.0
+University of Pittsburgh,BA,1926,,Mary Margaret Taylor Speer,"March 27, 1906","November 23, 1966","Midway, Pennsylvania",1906,1966.0
+University of Pittsburgh,MA,1928,,Mary Margaret Taylor Speer,"March 27, 1906","November 23, 1966","Midway, Pennsylvania",1906,1966.0
+University of Pittsburgh,PhD,1935,Forest Almos Foraker,Mary Margaret Taylor Speer,"March 27, 1906","November 23, 1966","Midway, Pennsylvania",1906,1966.0
+Ohio University,BS,1903,,Elizabeth Ruth Grennan (Bennett),"October 9, 1880","October 15, 1972","Shawnee, Monroe County, Pennsylvania",1880,1972.0
+University of Illinois,MA,1908,,Elizabeth Ruth Grennan (Bennett),"October 9, 1880","October 15, 1972","Shawnee, Monroe County, Pennsylvania",1880,1972.0
+University of Illinois,PhD,1910,George Abram Miller,Elizabeth Ruth Grennan (Bennett),"October 9, 1880","October 15, 1972","Shawnee, Monroe County, Pennsylvania",1880,1972.0
+Western College for Women,BA,1904,,Rosa Lea Jackson,"May 7, 1883","January 15, 1967","Ripley, Tennessee",1883,1967.0
+University of Chicago,MS,1922,Gilbert Ames Bliss,Rosa Lea Jackson,"May 7, 1883","January 15, 1967","Ripley, Tennessee",1883,1967.0
+University of Chicago,PhD,1928,Gilbert Ames Bliss,Rosa Lea Jackson,"May 7, 1883","January 15, 1967","Ripley, Tennessee",1883,1967.0
+University of Kansas,BA,1927,,Sister Ann Elizabeth Shea,"September 19, 1900","May 14, 1957","St. Joseph, Missouri",1900,1957.0
+University of Wisconsin,MA,1931,,Sister Ann Elizabeth Shea,"September 19, 1900","May 14, 1957","St. Joseph, Missouri",1900,1957.0
+University of Wisconsin,PhD,1934,Theodore Bennett,Sister Ann Elizabeth Shea,"September 19, 1900","May 14, 1957","St. Joseph, Missouri",1900,1957.0
+Vassar College,BA,1881,,Charlotte Cynthia Barnum,"May 17, 1860","March 27, 1934","Phillipston, Massachusetts",1860,1934.0
+Yale University,PhD,1895,,Charlotte Cynthia Barnum,"May 17, 1860","March 27, 1934","Phillipston, Massachusetts",1860,1934.0
+College of Notre Dame of Maryland,BA,1936,Sister Mary Cordia Karl,Mary Catherine Varnhorn,"July 8, 1914","November 9, 1988","Baltimore, Maryland",1914,1988.0
+Catholic University of America,MA,1937,Edward J. Finan,Mary Catherine Varnhorn,"July 8, 1914","November 9, 1988","Baltimore, Maryland",1914,1988.0
+Catholic University of America,PhD,1939,Edward J. Finan,Mary Catherine Varnhorn,"July 8, 1914","November 9, 1988","Baltimore, Maryland",1914,1988.0
+University of Wisconsin,BA,1897,,Charlotte Elvira Crathorne,"May 30, 1875","February 9, 1916","Juda, Wisconsin",1875,1916.0
+University of Wisconsin,PhD,1901,Linnaeus Wayland Dowling,Charlotte Elvira Crathorne,"May 30, 1875","February 9, 1916","Juda, Wisconsin",1875,1916.0
+Baylor University,BA,1925,,Dorothy McCoy,"August 9, 1903","November 21, 2001","Waukomis, Oklahoma Territory",1903,2001.0
+University of Iowa,MS,1927,Roscoe Woods,Dorothy McCoy,"August 9, 1903","November 21, 2001","Waukomis, Oklahoma Territory",1903,2001.0
+University of Iowa,PhD,1929,Edward Wilson Chittenden,Dorothy McCoy,"August 9, 1903","November 21, 2001","Waukomis, Oklahoma Territory",1903,2001.0
+Bates College,BA,1922,,Katharine Elizabeth O'Brien,"April 10, 1901","April 10, 1998","Amesbury, Massachusetts",1901,1998.0
+Cornell University,MA,1924,,Katharine Elizabeth O'Brien,"April 10, 1901","April 10, 1998","Amesbury, Massachusetts",1901,1998.0
+Brown University,PhD,1939,Jacob David Tamarkin,Katharine Elizabeth O'Brien,"April 10, 1901","April 10, 1998","Amesbury, Massachusetts",1901,1998.0
+Indiana University,BA,1908,,Gertrude Iona McCain,"July 15, 1879","April 4, 1955","Three Rivers, Michigan",1879,1955.0
+Indiana University,MA,1911,,Gertrude Iona McCain,"July 15, 1879","April 4, 1955","Three Rivers, Michigan",1879,1955.0
+Indiana University,PhD,1918,,Gertrude Iona McCain,"July 15, 1879","April 4, 1955","Three Rivers, Michigan",1879,1955.0
+Indiana University,BA,1907,,Cora Barbara Hennel,"January 21, 1886","June 26, 1947","Evansville, Indiana",1886,1947.0
+Indiana University,MA,1908,,Cora Barbara Hennel,"January 21, 1886","June 26, 1947","Evansville, Indiana",1886,1947.0
+Indiana University,PhD,1912,Robert Daniel Carmichael,Cora Barbara Hennel,"January 21, 1886","June 26, 1947","Evansville, Indiana",1886,1947.0
+Emmanuel College,BA,1926,,Sister Leonarda Burke,"November 24, 1900","March 1, 1998","Boston, Massachusetts",1900,1998.0
+Boston College,MA,1928,,Sister Leonarda Burke,"November 24, 1900","March 1, 1998","Boston, Massachusetts",1900,1998.0
+Catholic University of America,PhD,1931,Aubrey E. Landry,Sister Leonarda Burke,"November 24, 1900","March 1, 1998","Boston, Massachusetts",1900,1998.0
+University of Kansas,BA,1913,,Florence Lucile Black,"November 22, 1889","September 13, 1974","Meade County, Kansas",1889,1974.0
+University of Kansas,MA,1921,,Florence Lucile Black,"November 22, 1889","September 13, 1974","Meade County, Kansas",1889,1974.0
+University of Kansas,PhD,1926,Ellis Bagley Stouffer,Florence Lucile Black,"November 22, 1889","September 13, 1974","Meade County, Kansas",1889,1974.0
+Loyola University of Chicago,PhB,1924,,Sister Catharine Francis Galvin,"November 24, 1885","December 2, 1955","Spalding, Nebraska",1885,1955.0
+University of Notre Dame,MS,1930,,Sister Catharine Francis Galvin,"November 24, 1885","December 2, 1955","Spalding, Nebraska",1885,1955.0
+Catholic University of America,PhD,1938,Aubrey Edward Landry,Sister Catharine Francis Galvin,"November 24, 1885","December 2, 1955","Spalding, Nebraska",1885,1955.0
+Knox College,BA,1916,,Helen Calkins,"October 20, 1893","June 17, 1970","Quincy, Illinois",1893,1970.0
+Columbia University,MA,1921,David Eugene Smith,Helen Calkins,"October 20, 1893","June 17, 1970","Quincy, Illinois",1893,1970.0
+Cornell University,PhD,1932,Charles Frederick Roos and David Clinton Gillespie,Helen Calkins,"October 20, 1893","June 17, 1970","Quincy, Illinois",1893,1970.0
+Brown University,PhB,1925,,Rose Alice Whelan Sedgewick,"June 16, 1903","June 7, 2000","Brockton, Massachusetts",1903,2000.0
+Brown University,MA,1927,Anna Pell Wheeler,Rose Alice Whelan Sedgewick,"June 16, 1903","June 7, 2000","Brockton, Massachusetts",1903,2000.0
+Brown University,PhD,1929,Jacob David Tamarkin,Rose Alice Whelan Sedgewick,"June 16, 1903","June 7, 2000","Brockton, Massachusetts",1903,2000.0
+Catholic Sisters College of the Catholic University of America,BA,1914,,Helen Agnes Kelley,"September 8, 1888","October 22, 1926","Roxbury, Boston, Massachusetts",1888,1926.0
+Catholic Sisters College of the Catholic University of America,MA,1915,,Helen Agnes Kelley,"September 8, 1888","October 22, 1926","Roxbury, Boston, Massachusetts",1888,1926.0
+Catholic Sisters College of the Catholic University of America,PhD,1917,Aubrey Edward Landry,Helen Agnes Kelley,"September 8, 1888","October 22, 1926","Roxbury, Boston, Massachusetts",1888,1926.0
+Smith College,BA,1906,,Pauline Sperry,"March 5, 1885","September 24, 1967","Peabody, Massachusetts",1885,1967.0
+Smith College,MA,1908,,Pauline Sperry,"March 5, 1885","September 24, 1967","Peabody, Massachusetts",1885,1967.0
+University of Chicago,MS,1914,,Pauline Sperry,"March 5, 1885","September 24, 1967","Peabody, Massachusetts",1885,1967.0
+University of Chicago,PhD,1916,Ernest J. Wilczynski,Pauline Sperry,"March 5, 1885","September 24, 1967","Peabody, Massachusetts",1885,1967.0
+Dalhousie University,BA,1891,,Agnes Sime Baxter,"March 18, 1870","March 9, 1917","Halifax, Nova Scotia, Canada",1870,1917.0
+Dalhousie University,MA,1892,,Agnes Sime Baxter,"March 18, 1870","March 9, 1917","Halifax, Nova Scotia, Canada",1870,1917.0
+Cornell University,PhD,1895,James Edward Oliver,Agnes Sime Baxter,"March 18, 1870","March 9, 1917","Halifax, Nova Scotia, Canada",1870,1917.0
+Our Lady of the Lake College,BA,1922,,Sister Mary Laetitia Hill,"December 22, 1898","April 10, 1992","Koerth, Texas",1898,1992.0
+Catholic University of America (Catholic Sisters College),MA,1926,,Sister Mary Laetitia Hill,"December 22, 1898","April 10, 1992","Koerth, Texas",1898,1992.0
+Catholic University of America,PhD,1935,Aubrey Edward Landry,Sister Mary Laetitia Hill,"December 22, 1898","April 10, 1992","Koerth, Texas",1898,1992.0
+Wells College,BA,1920,,Evelyn Carroll Rusk,"September 28, 1898","December 5, 1964","Rome, New York",1898,1964.0
+Wells College,MA,1922,,Evelyn Carroll Rusk,"September 28, 1898","December 5, 1964","Rome, New York",1898,1964.0
+Cornell University,PhD,1932,Virgil Snyder,Evelyn Carroll Rusk,"September 28, 1898","December 5, 1964","Rome, New York",1898,1964.0
+Bryn Mawr College,BA,1928,Unknown,Ruth Margaret Peters,"December 11, 1906","May 12, 1961","Gettysburg, Pennsylvania",1906,1961.0
+Bryn Mawr College,MA,1931,Unknown,Ruth Margaret Peters,"December 11, 1906","May 12, 1961","Gettysburg, Pennsylvania",1906,1961.0
+Radcliffe College,PhD,1933,William Caspar Graustein,Ruth Margaret Peters,"December 11, 1906","May 12, 1961","Gettysburg, Pennsylvania",1906,1961.0
+St. Benedict’s College,BA,1930,N/A,Sister M. Helen Sullivan,"April 10, 1907","December 22, 1998","Effingham, Kansas",1907,1998.0
+Catholic University of America,MA,1931,N/A,Sister M. Helen Sullivan,"April 10, 1907","December 22, 1998","Effingham, Kansas",1907,1998.0
+Catholic University of America,PhD,1934,Aubrey E. Landry,Sister M. Helen Sullivan,"April 10, 1907","December 22, 1998","Effingham, Kansas",1907,1998.0
+Oxford College for Women,BA,1921,,Mildred Ellen Taylor,"July 25, 1898","November 3, 1978","Virginia, Illinois",1898,1978.0
+University of Illinois,MA,1922,,Mildred Ellen Taylor,"July 25, 1898","November 3, 1978","Virginia, Illinois",1898,1978.0
+University of Illinois,PhD,1931,Arthur Byron Coble,Mildred Ellen Taylor,"July 25, 1898","November 3, 1978","Virginia, Illinois",1898,1978.0
+University of Washington,BS,1921,,Lois Wilfred Griffiths,"June 27, 1899","November 9, 1981","Chagrin Falls, Ohio",1899,1981.0
+University of Washington,MS,1923,,Lois Wilfred Griffiths,"June 27, 1899","November 9, 1981","Chagrin Falls, Ohio",1899,1981.0
+University of Chicago,PhD,1927,Leonard Eugene Dickson,Lois Wilfred Griffiths,"June 27, 1899","November 9, 1981","Chagrin Falls, Ohio",1899,1981.0
+Barnard College,BA,1935,,Marion Belle Greenebaum Epstein,"June 14, 1915",,"Brooklyn, New York",1915,
+Bryn Mawr College,MA,1936,,Marion Belle Greenebaum Epstein,"June 14, 1915",,"Brooklyn, New York",1915,
+Bryn Mawr College,PhD,1938,Heinrich Wilhelm Brinkmann,Marion Belle Greenebaum Epstein,"June 14, 1915",,"Brooklyn, New York",1915,
+Oberlin College,BA,1928,,Vivian Eberle Spencer,"October 27, 1907","September 14, 1980","New Castle, Pennsylvania",1907,1980.0
+Oberlin College,MA,1929,,Vivian Eberle Spencer,"October 27, 1907","September 14, 1980","New Castle, Pennsylvania",1907,1980.0
+University of Pennsylvania,PhD,1936,James Alexander Shohat,Vivian Eberle Spencer,"October 27, 1907","September 14, 1980","New Castle, Pennsylvania",1907,1980.0
+Huron College,BS,1919,,Margaret Evelyn Mauch,"June 1, 1897","November 16, 1987","De Smet, South Dakota",1897,1987.0
+University of Chicago,MS,1923,William Duncan MacMillan,Margaret Evelyn Mauch,"June 1, 1897","November 16, 1987","De Smet, South Dakota",1897,1987.0
+University of Chicago,PhD,1938,Leonard Eugene Dickson,Margaret Evelyn Mauch,"June 1, 1897","November 16, 1987","De Smet, South Dakota",1897,1987.0
+University of Minnesota,BA,1927,,Marian Augusta Wilder Thornton,"July 18, 1905","September 30, 1992","Shakopee, Minnesota",1905,1992.0
+University of Minnesota,MA,1930,J. Arthur Harris,Marian Augusta Wilder Thornton,"July 18, 1905","September 30, 1992","Shakopee, Minnesota",1905,1992.0
+University of Minnesota,PhD,1933,Dunham Jackson,Marian Augusta Wilder Thornton,"July 18, 1905","September 30, 1992","Shakopee, Minnesota",1905,1992.0
+Wellesley College,BA,1916,,Dorothy Walcott Weeks,"May 3, 1893","June 4, 1990","Philadelphia, Pennsylvania",1893,1990.0
+Massachusetts Institute of Technology,MS,1923,Newell Caldwell Page,Dorothy Walcott Weeks,"May 3, 1893","June 4, 1990","Philadelphia, Pennsylvania",1893,1990.0
+Massachusetts Institute of Technology,PhD,1930,Norbert Wiener,Dorothy Walcott Weeks,"May 3, 1893","June 4, 1990","Philadelphia, Pennsylvania",1893,1990.0
+Simmons College,MS,1925,,Dorothy Walcott Weeks,"May 3, 1893","June 4, 1990","Philadelphia, Pennsylvania",1893,1990.0
+University of Saskatchewan,BA,1931,,Vera Adela Widder (née Ames),"December 12, 1909","May 18, 2004","Milestone, Saskatchewan, Canada",1909,2004.0
+University of Saskatchewan,MA,1932,,Vera Adela Widder (née Ames),"December 12, 1909","May 18, 2004","Milestone, Saskatchewan, Canada",1909,2004.0
+Bryn Mawr College,PhD,1938,Anna Pell Wheeler,Vera Adela Widder (née Ames),"December 12, 1909","May 18, 2004","Milestone, Saskatchewan, Canada",1909,2004.0
+Boston University,BA,1927,,Ruth Gertrude Simond,"March 7, 1904","September 15, 1958","Franklin, New Hampshire",1904,1958.0
+Boston University,MA,1929,,Ruth Gertrude Simond,"March 7, 1904","September 15, 1958","Franklin, New Hampshire",1904,1958.0
+University of Michigan,PhD,1938,William Leake Ayres,Ruth Gertrude Simond,"March 7, 1904","September 15, 1958","Franklin, New Hampshire",1904,1958.0
+Swarthmore College,BA,1931,Arnold Dresden,Ruth Caroline McKee (Stauffer),"July 16, 1910","January 9, 1993","Harrisburg, Pennsylvania",1910,1993.0
+Bryn Mawr College,MA,1933,Emmy Noether,Ruth Caroline McKee (Stauffer),"July 16, 1910","January 9, 1993","Harrisburg, Pennsylvania",1910,1993.0
+Bryn Mawr College,PhD,1935,Emmy Noether,Ruth Caroline McKee (Stauffer),"July 16, 1910","January 9, 1993","Harrisburg, Pennsylvania",1910,1993.0
+Guilford College,BS,1892,,Virginia Ragsdale,"December 13, 1870","June 4, 1945","Jamestown, North Carolina",1870,1945.0
+Bryn Mawr College,BA,1896,,Virginia Ragsdale,"December 13, 1870","June 4, 1945","Jamestown, North Carolina",1870,1945.0
+Bryn Mawr College,PhD,1904,Charlotte Angas Scott,Virginia Ragsdale,"December 13, 1870","June 4, 1945","Jamestown, North Carolina",1870,1945.0
+Goucher College,BA,1912,,Teresa Cohen,"February 14, 1892","August 10, 1992","Baltimore, Maryland",1892,1992.0
+Johns Hopkins University,MA,1915,,Teresa Cohen,"February 14, 1892","August 10, 1992","Baltimore, Maryland",1892,1992.0
+Johns Hopkins University,PhD,1918,Frank Morley,Teresa Cohen,"February 14, 1892","August 10, 1992","Baltimore, Maryland",1892,1992.0
+Bryn Mawr College,BA,1920,,Marie Paula Litzinger,"May 14, 1899","April 7, 1952","Bedford, Pennsylvania",1899,1952.0
+Bryn Mawr College,MA,1922,,Marie Paula Litzinger,"May 14, 1899","April 7, 1952","Bedford, Pennsylvania",1899,1952.0
+University of Chicago,PhD,1934,Leonard Eugene Dickson,Marie Paula Litzinger,"May 14, 1899","April 7, 1952","Bedford, Pennsylvania",1899,1952.0
+St. Xavier College,BA,1923,,Sister Mary Henrietta Reilly,"February 14, 1895","April 21, 1964","Chicago, Illinois",1895,1964.0
+St. Xavier College,MA,1925,,Sister Mary Henrietta Reilly,"February 14, 1895","April 21, 1964","Chicago, Illinois",1895,1964.0
+Catholic University of America,PhD,1936,Aubrey Edward Landry,Sister Mary Henrietta Reilly,"February 14, 1895","April 21, 1964","Chicago, Illinois",1895,1964.0
+Fordham University,BA,1922,,Sister Charles Mary Morrison,"July 19, 1895","January 15, 1953","Hyde Park, Massachusetts",1895,1953.0
+Fordham University,MA,1925,,Sister Charles Mary Morrison,"July 19, 1895","January 15, 1953","Hyde Park, Massachusetts",1895,1953.0
+Catholic University of America,PhD,1931,Aubrey E. Landry,Sister Charles Mary Morrison,"July 19, 1895","January 15, 1953","Hyde Park, Massachusetts",1895,1953.0
+Catholic University of America,BA,1927,,Sister Mary Charlotte Fowler,"August 26, 1899","August 26, 1997","Mechanicsville, Maryland",1899,1997.0
+Catholic University of America,MA,1935,Aubrey Edward Landry,Sister Mary Charlotte Fowler,"August 26, 1899","August 26, 1997","Mechanicsville, Maryland",1899,1997.0
+Catholic University of America,PhD,1938,Aubrey Edward Landry,Sister Mary Charlotte Fowler,"August 26, 1899","August 26, 1997","Mechanicsville, Maryland",1899,1997.0
+Wellesley College,BA,1926,,Ruth Glidden Mason Ballard,"April 24, 1906","June 7, 1980","Chicago, Illinois",1906,1980.0
+University of Chicago,MS,1928,Mayme Irwin Logsdon,Ruth Glidden Mason Ballard,"April 24, 1906","June 7, 1980","Chicago, Illinois",1906,1980.0
+University of Chicago,PhD,1932,Leonard Eugene Dickson,Ruth Glidden Mason Ballard,"April 24, 1906","June 7, 1980","Chicago, Illinois",1906,1980.0
+Hunter College,BA,1929,,Annita Tuller,"December 30, 1910","August 29, 1994","Brooklyn, New York",1910,1994.0
+Bryn Mawr College,MA,1930,,Annita Tuller,"December 30, 1910","August 29, 1994","Brooklyn, New York",1910,1994.0
+Bryn Mawr College,PhD,1937,Gustav A. Hedlund,Annita Tuller,"December 30, 1910","August 29, 1994","Brooklyn, New York",1910,1994.0
+Saint Xavier College for Women,BS,1934,,Mary Barbara Haberzetle Turner,"June 4, 1912","November 16, 1983","Chicago, Illinois",1912,1983.0
+University of Chicago,MS,1936,,Mary Barbara Haberzetle Turner,"June 4, 1912","November 16, 1983","Chicago, Illinois",1912,1983.0
+University of Chicago,PhD,1938,Leonard Eugene Dickson,Mary Barbara Haberzetle Turner,"June 4, 1912","November 16, 1983","Chicago, Illinois",1912,1983.0
+University of Edinburgh,MA,1917,,Eleanor Pairman Brown,"June 8, 1896","September 14, 1973","Broomieknowe, Lasswade, Midlothian, Scotland",1896,1973.0
+Radcliffe College,PhD,1922,George David Birkhoff,Eleanor Pairman Brown,"June 8, 1896","September 14, 1973","Broomieknowe, Lasswade, Midlothian, Scotland",1896,1973.0
+University of Wisconsin,BL,1900,,Florence Eliza Allen,"October 4, 1876","December 31, 1960","Horicon, Wisconsin",1876,1960.0
+University of Wisconsin,ML,1901,Linnaeus Wayland Dowling,Florence Eliza Allen,"October 4, 1876","December 31, 1960","Horicon, Wisconsin",1876,1960.0
+University of Wisconsin,PhD,1907,Linnaeus Wayland Dowling,Florence Eliza Allen,"October 4, 1876","December 31, 1960","Horicon, Wisconsin",1876,1960.0
+University of Kansas,BA,1900,,Helen Barten Brewster Owens,"April 2, 1881","June 6, 1968","Pleasanton, Linn County, Kansas",1881,1968.0
+University of Kansas,MA,1901,Henry B. Newson,Helen Barten Brewster Owens,"April 2, 1881","June 6, 1968","Pleasanton, Linn County, Kansas",1881,1968.0
+Cornell University,PhD,1910,Virgil Snyder,Helen Barten Brewster Owens,"April 2, 1881","June 6, 1968","Pleasanton, Linn County, Kansas",1881,1968.0
+University of British Columbia,BA,1932,,M. Gweneth Humphreys,"October 22, 1911","October 6, 2006","South Vancouver, British Columbia",1911,2006.0
+Smith College,MA,1933,,M. Gweneth Humphreys,"October 22, 1911","October 6, 2006","South Vancouver, British Columbia",1911,2006.0
+University of Chicago,PhD,1935,Leonard Eugene Dickson,M. Gweneth Humphreys,"October 22, 1911","October 6, 2006","South Vancouver, British Columbia",1911,2006.0
+University of London,BA,1896,,Emily Matilda Coddington Williams,"October 21, 1873","August 8, 1952",New York City,1873,1952.0
+Columbia University,MA,1898,,Emily Matilda Coddington Williams,"October 21, 1873","August 8, 1952",New York City,1873,1952.0
+Columbia University,PhD,1905,,Emily Matilda Coddington Williams,"October 21, 1873","August 8, 1952",New York City,1873,1952.0
+New York University,LLB,1913,,Emily Matilda Coddington Williams,"October 21, 1873","August 8, 1952",New York City,1873,1952.0
+New York University,BS,1932,,Gertrude Blanch,"February 2, 1897","January 1, 1996","Kolno, Poland",1897,1996.0
+Cornell University,MS,1934,Virgil Snyder,Gertrude Blanch,"February 2, 1897","January 1, 1996","Kolno, Poland",1897,1996.0
+Cornell University,PhD,1935,Virgil Snyder,Gertrude Blanch,"February 2, 1897","January 1, 1996","Kolno, Poland",1897,1996.0
+University of Kansas,BA,1919,,Wealthy Consuelo Babcock,"November 18, 1895","April 10, 1990","Washington County, Kansas",1895,1990.0
+University of Kansas,MA,1922,,Wealthy Consuelo Babcock,"November 18, 1895","April 10, 1990","Washington County, Kansas",1895,1990.0
+University of Kansas,PhD,1926,Ellis Bagley Stouffer,Wealthy Consuelo Babcock,"November 18, 1895","April 10, 1990","Washington County, Kansas",1895,1990.0
+Radcliffe College,BA,1913,Charles Leonard Bouton,Elizabeth Morgan Cooper,"January 19, 1891","May 17, 1967","Syracuse, New York",1891,1967.0
+Bryn Mawr College,MA,1923,,Elizabeth Morgan Cooper,"January 19, 1891","May 17, 1967","Syracuse, New York",1891,1967.0
+University of Illinois,PhD,1930,Arthur Byron Coble,Elizabeth Morgan Cooper,"January 19, 1891","May 17, 1967","Syracuse, New York",1891,1967.0
+Oberlin College,BA,1900,,Mary Emily Sinclair,"September 27, 1878","June 3, 1955","Worcester, Massachusetts",1878,1955.0
+University of Chicago,MA,1903,,Mary Emily Sinclair,"September 27, 1878","June 3, 1955","Worcester, Massachusetts",1878,1955.0
+University of Chicago,PhD,1908,Oskar Bolza,Mary Emily Sinclair,"September 27, 1878","June 3, 1955","Worcester, Massachusetts",1878,1955.0
+University of Michigan,BS,1926,,Shu Ting Liu Hsia,"September 25, 1903","August 16, 1980","Beijing, China",1903,1980.0
+University of Michigan,MS,1927,,Shu Ting Liu Hsia,"September 25, 1903","August 16, 1980","Beijing, China",1903,1980.0
+University of Michigan,PhD,1930,Louis Allen Hopkins,Shu Ting Liu Hsia,"September 25, 1903","August 16, 1980","Beijing, China",1903,1980.0
+University of Missouri,BS,1922,,Nola Lee Anderson Haynes,"January 9, 1897","December 21, 1996","Bucklin, Linn County, Missouri",1897,1996.0
+University of Missouri,MA,1926,,Nola Lee Anderson Haynes,"January 9, 1897","December 21, 1996","Bucklin, Linn County, Missouri",1897,1996.0
+University of Missouri,PhD,1929,Louis Ingold,Nola Lee Anderson Haynes,"January 9, 1897","December 21, 1996","Bucklin, Linn County, Missouri",1897,1996.0
+Wellesley College,BS,1890,,Grace Andrews,"May 30, 1869","July 27, 1951","Brooklyn, New York",1869,1951.0
+Columbia University,MA,1899,,Grace Andrews,"May 30, 1869","July 27, 1951","Brooklyn, New York",1869,1951.0
+Columbia University,PhD,1901,,Grace Andrews,"May 30, 1869","July 27, 1951","Brooklyn, New York",1869,1951.0
+University of South Dakota,BA,1915,,Emma Julia Olson,"December 7, 1892","November 14, 1981","Fairview, South Dakota",1892,1981.0
+University of Chicago,MA,1924,Ernest Preston Lane,Emma Julia Olson,"December 7, 1892","November 14, 1981","Fairview, South Dakota",1892,1981.0
+University of Chicago,PhD,1932,Ernest Preston Lane,Emma Julia Olson,"December 7, 1892","November 14, 1981","Fairview, South Dakota",1892,1981.0
+University of California,BA,1908,,Annie Dale Andrews (Biddle),"December 13, 1885","April 14, 1940","Hanford, California",1885,1940.0
+University of California,PhD,1911,Derrick Norman Lehmer,Annie Dale Andrews (Biddle),"December 13, 1885","April 14, 1940","Hanford, California",1885,1940.0
+University of Toronto,BA,1895,,Louise Duffield Cummings,"November 21, 1870","May 9, 1947","Hamilton, Ontario, Canada",1870,1947.0
+University of Toronto,MA,1902,,Louise Duffield Cummings,"November 21, 1870","May 9, 1947","Hamilton, Ontario, Canada",1870,1947.0
+Bryn Mawr College,PhD,1914,Charlotte Angas Scott,Louise Duffield Cummings,"November 21, 1870","May 9, 1947","Hamilton, Ontario, Canada",1870,1947.0
+University of Edinburgh,MA,1922,E. T. Whittaker,Marion Cameron Gray,"March 26, 1902","September 16, 1979","Ayr, Scotland",1902,1979.0
+Bryn Mawr College,PhD,1926,Anna Pell Wheeler,Marion Cameron Gray,"March 26, 1902","September 16, 1979","Ayr, Scotland",1902,1979.0
+University of Iowa,BA,1923,,Frances Ellen Baker,"December 19, 1902","April 4, 1995","Anna, Illinois",1902,1995.0
+University of Iowa,MS,1925,Richard Philip Baker,Frances Ellen Baker,"December 19, 1902","April 4, 1995","Anna, Illinois",1902,1995.0
+University of Chicago,PhD,1934,Leonard Eugene Dickson,Frances Ellen Baker,"December 19, 1902","April 4, 1995","Anna, Illinois",1902,1995.0
+Hunter College,BA,1922,,Edna Ernestine Kramer,"May 11, 1902","July 9, 1984","New York, New York",1902,1984.0
+Columbia University,MA,1925,,Edna Ernestine Kramer,"May 11, 1902","July 9, 1984","New York, New York",1902,1984.0
+Columbia University,PhD,1930,Edward Kasner,Edna Ernestine Kramer,"May 11, 1902","July 9, 1984","New York, New York",1902,1984.0
+University of London,BSc,1893,,Ada Isabel Maddison,"April 13, 1869","October 22, 1950","Whitehaven, Cumberland, England",1869,1950.0
+Bryn Mawr College,PhD,1896,Charlotte Angas Scott,Ada Isabel Maddison,"April 13, 1869","October 22, 1950","Whitehaven, Cumberland, England",1869,1950.0
+"Trinity College, Dublin",BA,1905,,Ada Isabel Maddison,"April 13, 1869","October 22, 1950","Whitehaven, Cumberland, England",1869,1950.0
+Smith College,BL,1898,,Ruth Goulding Wood,"January 29, 1875","May 5, 1939","Central Falls, Rhode Island",1875,1939.0
+Yale University,PhD,1901,"James Pierpont, Percey F. Smith, J. Willard Gibbs, William Beebe",Ruth Goulding Wood,"January 29, 1875","May 5, 1939","Central Falls, Rhode Island",1875,1939.0
+College of Saint Teresa,BA,1923,,Sister M. Leontius Schulte,"September 4, 1901","March 20, 2000","Cleveland, Wisconsin",1901,2000.0
+University of Michigan,MA,1931,,Sister M. Leontius Schulte,"September 4, 1901","March 20, 2000","Cleveland, Wisconsin",1901,2000.0
+University of Michigan,PhD,1935,Louis Charles Karpinski,Sister M. Leontius Schulte,"September 4, 1901","March 20, 2000","Cleveland, Wisconsin",1901,2000.0
+Oberlin College,BA,1931,,Dorothy Bothwell Kohlmetz,"January 25, 1906","December 18, 1941","Albany, New York",1906,1941.0
+Ohio State University,MA,1933,Henry Blumberg,Dorothy Bothwell Kohlmetz,"January 25, 1906","December 18, 1941","Albany, New York",1906,1941.0
+Ohio State University,PhD,1937,Tibor Radó,Dorothy Bothwell Kohlmetz,"January 25, 1906","December 18, 1941","Albany, New York",1906,1941.0
+Wilson College,BA,1925,,Roberta Frances Johnson,"January 22, 1902","October 12, 1988","Philadelphia, Pennsylvania",1902,1988.0
+Cornell University,MA,1931,Virgil Snyder,Roberta Frances Johnson,"January 22, 1902","October 12, 1988","Philadelphia, Pennsylvania",1902,1988.0
+Cornell University,PhD,1933,Virgil Snyder,Roberta Frances Johnson,"January 22, 1902","October 12, 1988","Philadelphia, Pennsylvania",1902,1988.0
+Central Holiness University,BA,1918,,Fannie Wilson Boyce,"March 16, 1897","February 13, 1986","Near Lentner, Shelby County, Missouri",1897,1986.0
+Penn College,BA,1921,,Fannie Wilson Boyce,"March 16, 1897","February 13, 1986","Near Lentner, Shelby County, Missouri",1897,1986.0
+University of Wisconsin,MA,1928,Ernest Brown Skinner,Fannie Wilson Boyce,"March 16, 1897","February 13, 1986","Near Lentner, Shelby County, Missouri",1897,1986.0
+University of Chicago,PhD,1938,Abraham Adrian Albert,Fannie Wilson Boyce,"March 16, 1897","February 13, 1986","Near Lentner, Shelby County, Missouri",1897,1986.0
+Tulane University,BA,1924,,Adrienne Sophie Rayl,"September 25, 1898","November 27, 1989","New Orleans, Louisiana",1898,1989.0
+Tulane University,MA,1934,,Adrienne Sophie Rayl,"September 25, 1898","November 27, 1989","New Orleans, Louisiana",1898,1989.0
+University of Chicago,PhD,1939,Walter Bartky,Adrienne Sophie Rayl,"September 25, 1898","November 27, 1989","New Orleans, Louisiana",1898,1989.0
+Denison University (Shepardson College),BA,1909,,Mildred Hunt,"May 8, 1888","December 14, 1975","Fairport, New York",1888,1975.0
+University of Chicago,MA,1916,Leonard Eugene Dickson,Mildred Hunt,"May 8, 1888","December 14, 1975","Fairport, New York",1888,1975.0
+University of Chicago,PhD,1924,Leonard Eugene Dickson,Mildred Hunt,"May 8, 1888","December 14, 1975","Fairport, New York",1888,1975.0
+University of Pittsburgh,BA,1930,,Rosella Kanarik,"February 7, 1909",,"Bartfa, Hungary",1909,
+University of Pittsburgh,MA,1931,,Rosella Kanarik,"February 7, 1909",,"Bartfa, Hungary",1909,
+University of Pittsburgh,PhD,1934,Montgomery Morton Culver,Rosella Kanarik,"February 7, 1909",,"Bartfa, Hungary",1909,
+H. Sophie Newcomb College,BA,1914,,Gladys Elizabeth Corson Gibbens,"January 21, 1893","September 24, 1983","New Orleans, Louisiana",1893,1983.0
+Tulane University,MA,1916,,Gladys Elizabeth Corson Gibbens,"January 21, 1893","September 24, 1983","New Orleans, Louisiana",1893,1983.0
+University of Chicago,PhD,1920,Ernest Julius Wilczynski,Gladys Elizabeth Corson Gibbens,"January 21, 1893","September 24, 1983","New Orleans, Louisiana",1893,1983.0
+University of Chicago,BS,1912,,Mayme Irwin Logsdon,"February 1, 1881","July 4, 1967","Elizabethtown, Kentucky",1881,1967.0
+University of Chicago,MA,1914,Kurt Laves,Mayme Irwin Logsdon,"February 1, 1881","July 4, 1967","Elizabethtown, Kentucky",1881,1967.0
+University of Chicago,PhD,1921,Leonard Eugene Dickson,Mayme Irwin Logsdon,"February 1, 1881","July 4, 1967","Elizabethtown, Kentucky",1881,1967.0
+Wellesley College,BA,1911,,Hazel Edith Schoonmaker Wilson,"October 31, 1888","April 23, 1988","Philadelphia, Pennsylvania",1888,1988.0
+Radcliffe College,MA,1914,,Hazel Edith Schoonmaker Wilson,"October 31, 1888","April 23, 1988","Philadelphia, Pennsylvania",1888,1988.0
+Cornell University,PhD,1927,Virgil Snyder,Hazel Edith Schoonmaker Wilson,"October 31, 1888","April 23, 1988","Philadelphia, Pennsylvania",1888,1988.0
+Goucher College,BA,1928,,Beatrice Aitchison,"July 18, 1908","September 22, 1997","Portland, Oregon",1908,1997.0
+Johns Hopkins University,MA,1931,Gordon Thomas Whyburn,Beatrice Aitchison,"July 18, 1908","September 22, 1997","Portland, Oregon",1908,1997.0
+Johns Hopkins University,PhD,1933,Gordon Thomas Whyburn,Beatrice Aitchison,"July 18, 1908","September 22, 1997","Portland, Oregon",1908,1997.0
+University of Oregon,MA,1937,,Beatrice Aitchison,"July 18, 1908","September 22, 1997","Portland, Oregon",1908,1997.0
+Brown University (Women's College),PhB,1923,,Elizabeth Stafford Hirschfelder,"April 25, 1902","September 29, 2002","Providence, Rhode Island",1902,2002.0
+Brown University (Women's College),MS,1924,,Elizabeth Stafford Hirschfelder,"April 25, 1902","September 29, 2002","Providence, Rhode Island",1902,2002.0
+University of Wisconsin,PhD,1930,Mark Hoyt Ingraham,Elizabeth Stafford Hirschfelder,"April 25, 1902","September 29, 2002","Providence, Rhode Island",1902,2002.0
+University of Wisconsin,BA,1934,,Dorothy L. Bernstein,"April 11, 1914","February 5, 1988","Chicago, Illinois",1914,1988.0
+University of Wisconsin,MA,1934,,Dorothy L. Bernstein,"April 11, 1914","February 5, 1988","Chicago, Illinois",1914,1988.0
+Brown University,PhD,1939,Jacob David Tamarkin,Dorothy L. Bernstein,"April 11, 1914","February 5, 1988","Chicago, Illinois",1914,1988.0
+University of Colorado,BA,1928,,Laura Louise Rosenbaum,"January 21, 1908","January 16, 1980","Carrollton, Illinois",1908,1980.0
+University of Colorado,MA,1933,Aubrey John Kempner,Laura Louise Rosenbaum,"January 21, 1908","January 16, 1980","Carrollton, Illinois",1908,1980.0
+University of Colorado,PhD,1939,Aubrey John Kempner,Laura Louise Rosenbaum,"January 21, 1908","January 16, 1980","Carrollton, Illinois",1908,1980.0
+Delta State Teachers College,BS,1928,,Marguerite Lenore Hedberg,"August 27, 1907","August 27, 2002","Kirksville, Missouri",1907,2002.0
+University of Missouri,MA,1929,,Marguerite Lenore Hedberg,"August 27, 1907","August 27, 2002","Kirksville, Missouri",1907,2002.0
+University of Missouri,PhD,1932,Louis Ingold,Marguerite Lenore Hedberg,"August 27, 1907","August 27, 2002","Kirksville, Missouri",1907,2002.0
