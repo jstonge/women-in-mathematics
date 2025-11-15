@@ -97,8 +97,8 @@ def split_pdfs() -> dg.MaterializeResult:
 
     return dg.MaterializeResult(
         metadata={
-            "input_from": str(pdf_path),
-            "output_to": str(output_folder),
+            "input_from": "defs/split/input/PioneeringWomenSupplement.pdf",
+            "output_to": "defs/split/output/",
             "num_pdfs_created": pdfs_created,
         }
     )

@@ -101,8 +101,8 @@ def join_to_csv() -> dg.MaterializeResult:
 
     return dg.MaterializeResult(
         metadata={
-            "input_from": str(input_folder),
-            "output_to": str(output_folder),
+            "input_from": "defs/parse/output/",
+            "output_to": "defs/join/output/",
             "num_people": len(people),
             "num_degrees": len(degrees),
             "num_employment_records": len(employment),

@@ -49,8 +49,8 @@ def extract_text() -> dg.MaterializeResult:
 
     return dg.MaterializeResult(
         metadata={
-            "input_from": str(input_folder),
-            "output_to": str(output_folder),
+            "input_from": "defs/split/output/",
+            "output_to": "defs/extract/output/",
             "num_texts_created": texts_created,
             "num_pdfs_processed": len(pdf_files),
         }

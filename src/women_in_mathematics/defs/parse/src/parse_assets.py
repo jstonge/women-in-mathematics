@@ -89,8 +89,8 @@ def parse_biographies(openai_resource: OpenAIResource) -> dg.MaterializeResult:
         dg.get_dagster_logger().info(f"All {existing_files} JSON files already exist. Skipping GPT-4 calls.")
         return dg.MaterializeResult(
             metadata={
-                "input_from": str(input_folder),
-                "output_to": str(output_folder),
+                "input_from": "defs/extract/output/",
+                "output_to": "defs/parse/output/",
                 "num_jsons_created": 0,
                 "num_texts_processed": len(txt_files),
                 "num_errors": 0,
@@ -145,8 +145,8 @@ def parse_biographies(openai_resource: OpenAIResource) -> dg.MaterializeResult:
 
     return dg.MaterializeResult(
         metadata={
-            "input_from": str(input_folder),
-            "output_to": str(output_folder),
+            "input_from": "defs/extract/output/",
+            "output_to": "defs/parse/output/",
             "num_jsons_created": jsons_created,
             "num_texts_processed": len(txt_files),
             "num_errors": len(errors),
