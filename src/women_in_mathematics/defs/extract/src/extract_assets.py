@@ -55,3 +55,21 @@ def extract_text() -> dg.MaterializeResult:
             "num_pdfs_processed": len(pdf_files),
         }
     )
+
+
+@dg.asset_check(
+    asset=extract_text,
+    description="Check if we conversion PDF -> txt returns same number",
+)
+def data_exists_check() -> dg.AssetCheckResult:
+
+    input_folder = here("src/women_in_mathematics/defs/split/output/")
+    output_folder = here("src/women_in_mathematics/defs/extract/output/")
+    
+    input_files = set([x.stem for x in input_folder.glob("*pdf")])
+    output_files = set([x.stem.replace(".pdf","") for x in output_folder.glob("*txt")])
+
+    return dg.AssetCheckResult(
+        passed=len(input_files) == len(output_files),
+        metadata={"missing": list(input_files - output_files )}
+    )

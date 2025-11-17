@@ -152,3 +152,20 @@ def parse_biographies(openai_resource: OpenAIResource) -> dg.MaterializeResult:
             "num_errors": len(errors),
         }
     )
+
+@dg.asset_check(
+    asset=parse_biographies,
+    description="Check if conversion PDF -> JSON is exact.",
+)
+def data_exists_check() -> dg.AssetCheckResult:
+
+    input_folder = here("src/women_in_mathematics/defs/extract/output/")
+    output_folder = here("src/women_in_mathematics/defs/parse/output/")
+    
+    input_files = set([x.stem.replace(".pdf","") for x in input_folder.glob("*txt")])
+    output_files = set([x.stem for x in output_folder.glob("*json")])
+
+    return dg.AssetCheckResult(
+        passed=len(input_files) == len(output_files),
+        metadata={"missing": list(input_files - output_files)}
+    )
